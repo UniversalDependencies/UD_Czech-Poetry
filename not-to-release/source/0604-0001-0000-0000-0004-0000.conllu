@@ -2,7 +2,7 @@
 # sent_id = 0604-0001-0000-0000-0004-0000_1
 # text = Povaha naše záhadně je stkána: Dvé disonančních, rušících se tonů, jež zazní z každé stránky našich dějin, z našeho šumí národního žití: francouzská vznětlivost a ruská mlha.
 1	Povaha	povaha	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	_	SpacesBefore=\s
-2	naše	můj	DET	PSHS1-P1-------	Case=Nom|Gender=Fem|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det	_	_
+2	naše	můj	DET	PSHS1-P1-------	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	1	det	_	_
 3	záhadně	záhadně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	_	_
 4	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 5	stkána	stkaný	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
@@ -19,11 +19,11 @@
 16	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	18	case	_	_
 17	každé	každý	DET	AAFS2----1A----	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	18	det	_	_
 18	stránky	stránka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	15	obl	_	_
-19	našich	můj	DET	PSXP2-P1-------	Case=Gen|Number[psor]=Plur|Number=Plur|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+19	našich	můj	DET	PSXP2-P1-------	Case=Gen|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
 20	dějin	dějiny	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	Z:-------------	_	24	punct	_	_
 22	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	24	case	_	_
-23	našeho	můj	DET	PSZS2-P1-------	Case=Gen|Gender=Neut|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+23	našeho	můj	DET	PSZS2-P1-------	Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
 24	šumí	šumí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	18	conj	_	_
 25	národního	národní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	26	amod	_	_
 26	žití	žití	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	24	nmod	_	SpaceAfter=No
@@ -164,7 +164,7 @@
 16	hraje	hrát	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
 17	,	,	PUNCT	Z:-------------	_	18	punct	_	_
 18	hýří	hýřit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
-19	náš	můj	DET	PSIS4-P1-------	Animacy=Inan|Case=Nom|Gender=Masc|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+19	náš	můj	DET	PSIS4-P1-------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
 20	celý	celý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	amod	_	_
 21	obzor	obzor	NOUN	NNIS4-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	14	nsubj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
@@ -183,7 +183,7 @@
 8	tmy	tma	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	conj	_	_
 9	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
 10	povaze	povaha	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
-11	naší	můj	DET	PSFS6-P1-------	Case=Loc|Gender=Fem|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	SpaceAfter=No
+11	naší	můj	DET	PSFS6-P1-------	Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	3	punct	_	_

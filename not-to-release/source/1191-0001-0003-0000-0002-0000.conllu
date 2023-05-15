@@ -1,7 +1,7 @@
 # newdoc id = 1191-0001-0003-0000-0002-0000
 # sent_id = 1191-0001-0003-0000-0002-0000_1
 # text = Hle, je tak bledá!
-1	Hle	hle	INTJ	II-------------	_	5	advmod:emph	_	SpacesBefore=\s|SpaceAfter=No
+1	Hle	hle	INTJ	II-------------	_	5	dep	_	SpacesBefore=\s|SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	tak	tak	ADV	Db-------------	PronType=Dem	5	advmod	_	_
@@ -37,12 +37,12 @@
 5	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	_
 6	blízku	blízko	NOUN	NNIS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Style=Arch	3	obl	_	_
 7	duši	duše	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
-8	mou	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	SpaceAfter=No
+8	mou	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	SpaceAfter=No
 9	?	?	PUNCT	Z:-------------	_	3	punct	_	_
 
 # sent_id = 1191-0001-0003-0000-0002-0000_4
 # text = O jistě neví, že teď hledím na Ni a bavím se, jak v mdloby návalu Ji zastih’ anděl spánku, k bledé skráni jak plíží se Jí zvolna, pomalu.
-1	O	o	INTJ	RR--6----------	_	3	advmod:emph	_	_
+1	O	o	INTJ	RR--6----------	_	3	dep	_	_
 2	jistě	jistě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	_	_
 3	neví	vědět	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	7	punct	_	_
@@ -76,7 +76,7 @@
 32	pomalu	pomalu	ADV	Db-------------	_	30	conj	_	SpaceAfter=No
 33	.	.	PUNCT	Z:-------------	_	19	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_6
+# sent_id = 1191-0001-0003-0000-0002-0000_5
 # text = Přivírá víčka; hebkou jejich běh přec zdá se stále, jak by prosvital těch skrytých očí oheň čaroskvělý a plachou jiskrou po nich se kmital...
 1	Přivírá	přivírat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	víčka	víčko	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	1	obj	_	SpaceAfter=No
@@ -108,9 +108,9 @@
 28	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_8
+# sent_id = 1191-0001-0003-0000-0002-0000_6
 # text = Hle, k mladým ňadrum jak Jí hlava klesá vždy níž a níž – tak útlá fiala se zvolna sklání, když ji v klínu lesa přepadne vichr – aj, teď povstala!
-1	Hle	hle	INTJ	II-------------	_	9	advmod:emph	_	SpaceAfter=No
+1	Hle	hle	INTJ	II-------------	_	9	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	5	case	_	_
 4	mladým	mladý	ADJ	AANP3----1A----	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	5	amod	_	_
@@ -145,7 +145,7 @@
 33	povstala	povstat	VERB	VpQW---XR-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	SpaceAfter=No
 34	!	!	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_10
+# sent_id = 1191-0001-0003-0000-0002-0000_7
 # text = A trhla sebou, vymrštila řasy, dvé sluncí svitlo jako blesk a blesk, snad zrak bych klopil před těmito jasy, však mlha východu jich mírní lesk.
 1	A	a	CCONJ	J^-------------	_	2	advmod:emph	_	_
 2	trhla	trhnout	VERB	VpQW---XR-AA--1	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -178,7 +178,7 @@
 29	lesk	lesk	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	28	obj	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_11
+# sent_id = 1191-0001-0003-0000-0002-0000_8
 # text = Jak chce se tvářit silnou, vážnou, chladnou! – že nejsem v této chvíli malířem! – a sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem.
 1	Jak	jak	ADV	Db-------------	PronType=Int	2	advmod	_	_
 2	chce	chtít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -215,10 +215,10 @@
 33	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	29	obl	_	SpaceAfter=No
 34	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_14
+# sent_id = 1191-0001-0003-0000-0002-0000_9
 # text = – O marně snu se jako lásce bráníš, Ty vzdorné dítě s duší nevinnou, než pomyslit si můžeš, mdle juž skláníš Svou nezkušenou hlavu dětinnou!
 1	–	–	PUNCT	Z:-------------	_	8	punct	_	_
-2	O	o	INTJ	RR--6----------	_	8	advmod:emph	_	_
+2	O	o	INTJ	RR--6----------	_	8	dep	_	_
 3	marně	marně	ADJ	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	_	_
 4	snu	sen	NOUN	NNIS6-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	8	obl:arg	_	_
 5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	_	_
@@ -247,14 +247,14 @@
 28	dětinnou	dětinný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	27	amod	_	SpaceAfter=No
 29	!	!	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_15
+# sent_id = 1191-0001-0003-0000-0002-0000_10
 # text = Co ostych platen?
 1	Co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int	3	obj	_	_
 2	ostych	ostych	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	_	_
 3	platen	platný	ADJ	NNIS1-----A----	Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_16
+# sent_id = 1191-0001-0003-0000-0002-0000_11
 # text = Skloň se, hlavo mladá! ať spánku čaroděj tak jako všem budoucí štěstí z karet svých Ti hádá – naslouchat budeš ráda slovům těm!
 1	Skloň	skloňt	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	SpaceAfter=No
@@ -283,7 +283,7 @@
 25	těm	ten	DET	PDXP3----------	Case=Dat|Number=Plur|PronType=Dem	24	det	_	SpaceAfter=No
 26	!	!	PUNCT	Z:-------------	_	19	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_19
+# sent_id = 1191-0001-0003-0000-0002-0000_12
 # text = A pokud můžeš, věř těm kartám jeho, že pravdu ví, že božskou pravdu dí a dej Ti bůh, ať ze snu rozkošného ni den ni člověk Tebe nevzbudí!
 1	A	a	CCONJ	J^-------------	_	5	cc	_	_
 2	pokud	pokud	SCONJ	J,-------------	_	3	mark	_	_
@@ -319,14 +319,14 @@
 32	nevzbudí	vzbudit	VERB	VB-S---3P-NA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	SpaceAfter=No
 33	!	!	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_20
+# sent_id = 1191-0001-0003-0000-0002-0000_13
 # text = Zas svírá víčka.
 1	Zas	zas	ADV	Db-------------	_	2	advmod	_	_
 2	svírá	svírat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	víčka	víčko	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_21
+# sent_id = 1191-0001-0003-0000-0002-0000_14
 # text = Hebkou jejich bělí přec zdá se stále, jak by prosvital těch skrytých očí oheň čaroskvělý a plachou jiskrou po nich se kmital.
 1	Hebkou	hebka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
 2	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
@@ -353,7 +353,7 @@
 23	kmital	kmitat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_22
+# sent_id = 1191-0001-0003-0000-0002-0000_15
 # text = A ku ňadrům Jí zase hlava klesá vždy níž a níž – v tom křísí se vždy zas v mdlých rozpacích a opěť snivě klesá. – Komu to dítě v náruč padne as?
 1	A	a	CCONJ	J^-------------	_	7	advmod:emph	_	_
 2	ku	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	3	case	_	_

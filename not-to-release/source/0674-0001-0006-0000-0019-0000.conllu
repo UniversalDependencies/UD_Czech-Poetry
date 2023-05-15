@@ -109,7 +109,7 @@
 4	kteří	který	DET	P4MP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	_
 5	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	_	_
 6	kobku	kobka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	_	_
-7	vaší	tvůj	DET	PSFS4-P2-------	Case=Acc|Gender=Fem|Number[psor]=Plur|Number=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Rare	6	det	_	_
+7	vaší	tvůj	DET	PSFS4-P2-------	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Style=Rare	6	det	_	_
 8	tmavou	tmavý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	6	amod	_	_
 9	Vešli	vejít	VERB	VpMP---XR-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	acl:relcl	_	_
 10	jste	být	AUX	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	SpaceAfter=No
@@ -129,7 +129,7 @@
 24	,	,	PUNCT	Z:-------------	_	25	punct	_	_
 25	Neprobudiž	neprobudiž	VERB	Vi-S---2--N----	Mood=Imp|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	0	root	_	_
 26	smích	smích	NOUN	NNIS4-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	25	nsubj	_	_
-27	náš	můj	DET	PSYS1-P1-------	Case=Nom|Gender=Masc|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+27	náš	můj	DET	PSYS1-P1-------	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
 28	ani	ani	CCONJ	J^-------------	_	29	cc	_	_
 29	lkání	lkání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	26	conj	_	SpaceAfter=No
 30	!	!	PUNCT	Z:-------------	_	25	punct	_	_
@@ -142,7 +142,7 @@
 4	vámi	ty	PRON	PP-P7--2-------	Case=Ins|Number=Plur|Person=2|PronType=Prs	6	obl	_	_
 5	jen	jen	PART	TT-------------	_	6	advmod:emph	_	_
 6	Zavzni	zavznit	VERB	Vi-S---2--A----	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	0	root	_	_
-7	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Neut|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+7	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 8	tiché	tichý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	10	amod	_	_
 9	noční	noční	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	10	amod	_	_
 10	přání	přání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nsubj	_	SpaceAfter=No
@@ -202,7 +202,7 @@
 42	sbíhá	sbíhat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	35	acl:relcl	_	SpaceAfter=No
 43	.	.	PUNCT	Z:-------------	_	26	punct	_	_
 
-# sent_id = 0674-0001-0006-0000-0019-0000_15
+# sent_id = 0674-0001-0006-0000-0019-0000_11
 # text = – Víc a více světnice se plní, Hovor hlučí, kouř se z dýmek vlní; Při stropu ho plamínku zář zlatí.
 1	–	–	PUNCT	Z:-------------	_	7	punct	_	_
 2	Víc	hodně	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	7	advmod	_	_
@@ -229,7 +229,7 @@
 23	zlatí	zlatit	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	parataxis	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	23	punct	_	_
 
-# sent_id = 0674-0001-0006-0000-0019-0000_17
+# sent_id = 0674-0001-0006-0000-0019-0000_12
 # text = Starci ještě hlučný hovor vedou, Brzo jeden po druhém se tratí V tmavou kobku; a co dívky předou, Hoši v hlučné hře a smíchu dlí: Mnohý stařec v tichém lůžku spí.
 1	Starci	stařec	NOUN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	nsubj	_	_
 2	ještě	ještě	ADV	Db-------------	_	5	advmod	_	_

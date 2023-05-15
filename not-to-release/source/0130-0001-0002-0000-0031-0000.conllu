@@ -13,7 +13,7 @@
 10	to	ten	DET	PDNS4----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	discourse	_	_
 11	vůlí	vůle	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	12	obl:agent	_	_
 12	zlomena	zlomený	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	2	parataxis	_	_
-13	tvá	tvůj	DET	PSFS1-S1------1	Case=Nom|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	_
+13	tvá	tvůj	DET	PSFS1-S1------1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	_
 14	vůle	vůle	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	12	nsubj:pass	_	SpaceAfter=No
 15	,	,	PUNCT	Z:-------------	_	18	punct	_	_
 16	že	že	SCONJ	NNMS1-----A----	_	18	mark	_	_

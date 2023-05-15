@@ -10,7 +10,7 @@
 7	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 8	sám	samý	DET	PLYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	11	xcomp	_	_
 9	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	_	_
-10	něho	on	PRON	P5ZS2--3------1	Anim=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	11	obl	_	_
+10	něho	on	PRON	P5ZS2--3------1	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	11	obl	_	_
 11	tkám	tkát	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 12	pestré	pestrý	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	13	amod	_	_
 13	arabesky	arabeska	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	11	obj	_	SpaceAfter=No

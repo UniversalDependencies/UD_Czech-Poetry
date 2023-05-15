@@ -183,7 +183,7 @@
 9	nyvé	nyvý	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	10	amod	_	_
 10	páry	pár	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	8	nsubj	_	_
 11	dítek	dítko	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	10	nmod	_	_
-12	Astartiných	Astartin	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender[psor]=Fem|Gender=Neut|NameType=Giv|Number=Plur|Polarity=Pos|Poss=Yes	11	amod	_	SpaceAfter=No
+12	Astartiných	Astartin	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Gender[psor]=Fem|NameType=Giv|Number=Plur|Polarity=Pos|Poss=Yes	11	amod	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	25	punct	_	_
 14	jež	jenž	PRON	PJFP1----------	Case=Nom|Gender=Neut|Number=Plur|PrepCase=Npr|PronType=Rel	25	nsubj	_	_
 15	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	17	case	_	_

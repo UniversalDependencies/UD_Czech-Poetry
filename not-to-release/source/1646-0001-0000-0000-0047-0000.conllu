@@ -6,7 +6,7 @@
 3	usneš	usnout	VERB	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
 4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
 5	loktech	lokt	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	3	obl	_	_
-6	mých	můj	DET	PSXP2-S1-------	Case=Gen|Number[psor]=Sing|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	SpaceAfter=No
+6	mých	můj	DET	PSXP2-S1-------	Case=Gen|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	3	punct	_	_
 8	bude	být	AUX	VB-S---3F-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	11	aux	_	_
 9	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	11	expl:pv	_	_

@@ -42,13 +42,13 @@
 3	oči	oko	NOUN	NNFP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	0	root	_	SpaceAfter=No
 4	!	!	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_4-bis
+# sent_id = 0362-0001-0003-0000-0011-0000_5
 # text = oči smilnící!
 1	oči	oko	NOUN	NNFP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	0	root	_	_
 2	smilnící	smilnící	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	1	amod	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_5
+# sent_id = 0362-0001-0003-0000-0011-0000_6
 # text = Ty mluví o jiném: o šatě náhle odervaném A o nahotě s vůní kmínu dráždivou, O smyslnosti vytrysklé jak purpurový oheň Perversních květů, které rychle schnou.
 1	Ty	ten	DET	PDFP1----------	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	nsubj	_	_
 2	mluví	mluvit	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -81,7 +81,7 @@
 29	schnou	schnout	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_6
+# sent_id = 0362-0001-0003-0000-0011-0000_7
 # text = Ty mluví o vášni, jež sebe zpíjet chtěla, Mladostí údů vyssáta být prahla, Jež v dusných orgiích klín vonný nabízela A lidmi zhnusena, po samém Bohu sáhla.
 1	Ty	ten	DET	PDFP1----------	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	nsubj	_	_
 2	mluví	mluvit	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -116,7 +116,7 @@
 31	sáhla	sáhnout	VERB	VpQW---XR-AA--1	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	23	conj	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_7
+# sent_id = 0362-0001-0003-0000-0011-0000_8
 # text = Ať nyní oheň v tvářích tvých V ledové tyto růže pohasl, Ať rozpustilý smích Rty naposledy otřásl, Ať drahokamů ozdoby Spadaly s ňader Tvých, Ať propadl se v záhrobí Chvějivý těla sníh, Ať v pózu Tebe kající Děs smrti zlomil zoufalý, Ty oči! oči Tobě zůstaly!
 1	Ať	ať	SCONJ	TT-------------	_	11	mark	_	_
 2	nyní	nyní	ADV	Db-------------	PronType=Dem	11	advmod	_	_
@@ -289,13 +289,13 @@
 75	smilnýma	smilný	ADJ	AAFD7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Dual|Polarity=Pos	74	amod	_	SpaceAfter=No
 76	.	.	PUNCT	Z:-------------	_	46	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_15
+# sent_id = 0362-0001-0003-0000-0011-0000_13
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_16
+# sent_id = 0362-0001-0003-0000-0011-0000_14
 # text = Ty v rudých vlasů záplavě, Zsinalá v truchlé póze kajícnice, Zoufalé duše vyslyš modlitbu, Jež prosí tebe: rozpěň moji krev, Nauč mne hřešit, neřestí jít pevně, Nevěstko – Světice!
 1	Ty	ty	PRON	PP-S1--2-------	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
@@ -319,7 +319,7 @@
 20	tebe	ty	PRON	PP-S4--2-------	Case=Acc|Number=Sing|Person=2|PronType=Prs	19	obj	_	SpaceAfter=No
 21	:	:	PUNCT	Z:-------------	_	22	punct	_	_
 22	rozpěň	rozpěň	VERB	Vi-S---2--A----	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	19	parataxis	_	_
-23	moji	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+23	moji	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
 24	krev	krev	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	22	obj	_	SpaceAfter=No
 25	,	,	PUNCT	Z:-------------	_	26	punct	_	_
 26	Nauč	naučit	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	22	conj	_	_
@@ -335,13 +335,13 @@
 36	Světice	Světice	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	34	appos	_	SpaceAfter=No
 37	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_17
+# sent_id = 0362-0001-0003-0000-0011-0000_15
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_18
+# sent_id = 0362-0001-0003-0000-0011-0000_16
 # text = Rozkoše dám tobě jméno teskné, Ať v tiché slávě jako magický skvost bleskne!
 1	Rozkoše	rozkoš	NOUN	NNFS3-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
 2	dám	dát	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -359,13 +359,13 @@
 14	bleskne	blesknout	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	SpaceAfter=No
 15	!	!	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_19
+# sent_id = 0362-0001-0003-0000-0011-0000_17
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_20
+# sent_id = 0362-0001-0003-0000-0011-0000_18
 # text = Ať jiné pro ctnost svou, Ty pro hřích vešla jsi v zář nebeskou!
 1	Ať	ať	PART	TT-------------	_	2	cc	_	_
 2	jiné	jiný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	10	orphan	_	_
@@ -383,7 +383,7 @@
 14	nebeskou	nebeský	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	SpaceAfter=No
 15	!	!	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_21
+# sent_id = 0362-0001-0003-0000-0011-0000_19
 # text = Ať jiné, muži netknuté, jen Věčné lásce byly věrné, Ty's rozdávala svůdně lásky efemerné, Ty's ožívala znova v dráždivém smyslů dobrodružství, V bláznovství lehtání, v alarmu vzkypělého mužství.
 1	Ať	ať	SCONJ	TT-------------	_	11	mark	_	_
 2	jiné	jiný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	11	dep	_	SpaceAfter=No
@@ -425,36 +425,36 @@
 38	mužství	mužství	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	36	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_22
+# sent_id = 0362-0001-0003-0000-0011-0000_20
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_23
+# sent_id = 0362-0001-0003-0000-0011-0000_21
 # text = Světice smyslnosti žhavé!
 1	Světice	světice	NOUN	NNFP1-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 2	smyslnosti	smyslnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_
 3	žhavé	žhavý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	SpaceAfter=No
 4	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_24
+# sent_id = 0362-0001-0003-0000-0011-0000_22
 # text = Patrona lascivorum!
 1	Patrona	patrona	NOUN	NNFS1-----A----	Case=Voc|Foreign=Yes|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 2	lascivorum	lascivorum	NOUN	NNNS1-----A----	Case=Gen|Foreign=Yes|Gender=Neut|Number=Sing|Polarity=Pos	1	dep	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 0362-0001-0003-0000-0011-0000_23
+# text = Ave!
+1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
+
+# sent_id = 0362-0001-0003-0000-0011-0000_24
+# text = Ave!
+1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
+
 # sent_id = 0362-0001-0003-0000-0011-0000_25
-# text = Ave!
-1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
-2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
-
-# sent_id = 0362-0001-0003-0000-0011-0000_26
-# text = Ave!
-1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
-2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
-
-# sent_id = 0362-0001-0003-0000-0011-0000_27
 # text = Ave!
 1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	Z:-------------	_	1	punct	_	_

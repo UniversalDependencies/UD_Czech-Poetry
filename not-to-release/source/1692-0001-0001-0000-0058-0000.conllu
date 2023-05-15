@@ -139,7 +139,7 @@
 16	tě	ty	PRON	PH-S4--2-------	Case=Acc|Number=Sing|Person=2|PronType=Prs|Variant=Short	15	obj	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	15	punct	_	_
 
-# sent_id = 1692-0001-0001-0000-0058-0000_9
+# sent_id = 1692-0001-0001-0000-0058-0000_8
 # text = Budeš na nich pěnou krotkou, která plyne do příboje, aby na břeh perlorodkou položila srdce tvoje.
 1	Budeš	být	AUX	VB-S---2F-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	4	cop	_	_
 2	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
@@ -163,7 +163,7 @@
 19	tvoje	tvůj	DET	P8XP4----------	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	18	det	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 1692-0001-0001-0000-0058-0000_10
+# sent_id = 1692-0001-0001-0000-0058-0000_9
 # text = To věčné v životě – je láska.
 1	To	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
 2	věčné	věčný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	amod	_	_

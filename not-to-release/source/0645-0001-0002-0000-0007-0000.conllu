@@ -160,14 +160,14 @@
 46	sen	sen	NOUN	NNIS1-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	39	nsubj	_	SpaceAfter=No
 47	.	.	PUNCT	Z:-------------	_	15	punct	_	_
 
-# sent_id = 0645-0001-0002-0000-0007-0000_6
+# sent_id = 0645-0001-0002-0000-0007-0000_5
 # text = Naposledy v písek plavý noha moje zapadá, kde paprsek mihotavý smavou perleť opřádá; co tu škeblí odpočívá, v každou z nich se teskná, snivá vzpomínka má ukládá.
 1	Naposledy	naposledy	ADV	Db-------------	_	7	advmod	_	_
 2	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	_
 3	písek	písek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obl	_	_
 4	plavý	plavý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
 5	noha	noha	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	_	_
-6	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+6	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
 7	zapadá	zapadat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	14	punct	_	_
 9	kde	kde	ADV	Db-------------	PronType=Rel	14	advmod	_	_
@@ -177,7 +177,7 @@
 13	perleť	perleť	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	14	obj	_	_
 14	opřádá	opřádat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
 15	;	;	PUNCT	Z:-------------	_	31	punct	_	_
-16	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int	17	nummod:gov	_	_
+16	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int	19	nsubj	_	_
 17	tu	tady	ADV	Db------------1	PronType=Dem	19	advmod	_	_
 18	škeblí	škeble	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	19	obl:arg	_	_
 19	odpočívá	odpočívat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	SpaceAfter=No
@@ -191,11 +191,11 @@
 27	,	,	PUNCT	Z:-------------	_	28	punct	_	_
 28	snivá	snivý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	26	conj	_	_
 29	vzpomínka	vzpomínka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	31	nsubj	_	_
-30	má	můj	DET	PSFS1-S1------1	Case=Nom|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	det	_	_
+30	má	můj	DET	PSFS1-S1------1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	29	det	_	_
 31	ukládá	ukládat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = 0645-0001-0002-0000-0007-0000_7
+# sent_id = 0645-0001-0002-0000-0007-0000_6
 # text = Černá kotev již se zvedá v tmavých plachet zášeru, na dalekém nebi bledá chví se hvězda – severu.
 1	Černá	černý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
 2	kotev	kotva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Style=Rare	5	nsubj	_	_

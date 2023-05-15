@@ -79,7 +79,7 @@
 
 # sent_id = 1474-0001-0002-0000-0004-0000_3
 # text = Ach, jak to dávno již, co tělem bývaly, co teplo cítil'jsi jejich měkkých objetí, co okem hořícím se v duši dívaly – teď, bože, teď jsou míň, než ptáče na sněti.
-1	Ach	ach	INTJ	II-------------	_	5	advmod:emph	_	SpaceAfter=No
+1	Ach	ach	INTJ	II-------------	_	5	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	jak	jak	ADV	Db-------------	PronType=Int	5	mark	_	_
 4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
@@ -182,7 +182,7 @@
 19	souvrati	souvrať	NOUN	NNFS2-----A---1	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
 20	a	a	CCONJ	J^-------------	_	26	cc	_	_
 21	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	_	_
-22	jejích	jeho	DET	PSXP6FS3-------	Case=Loc|Gender[psor]=Fem|Number[psor]=Sing|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
+22	jejích	jeho	DET	PSXP6FS3-------	Case=Loc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	travinách	travina	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	26	obl	_	_
 24	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	26	expl:pv	_	_
 25	rosou	rosa	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	26	obl	_	_

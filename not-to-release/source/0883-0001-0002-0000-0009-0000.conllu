@@ -62,11 +62,11 @@
 25	nebuďtež	budit	VERB	Vi-S---2--N----	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Style=Rare|VerbForm=Fin	23	parataxis	_	_
 26	tě	ty	PRON	PH-S4--2-------	Case=Acc|Number=Sing|Person=2|PronType=Prs|Variant=Short	25	obj	_	_
 27	ani	ani	CCONJ	J^-------------	_	25	advmod:emph	_	_
-28	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Fem|Number[psor]=Sing|Number=Plur|Person=1|Poss=Yes|PronType=Prs	25	nsubj	_	SpaceAfter=No
+28	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	nsubj	_	SpaceAfter=No
 29	,	,	PUNCT	Z:-------------	_	34	punct	_	_
 30	a	a	CCONJ	J^-------------	_	34	cc	_	_
 31	jak	jak	ADV	Db-------------	PronType=Int	34	mark	_	_
-32	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Fem|Number[psor]=Sing|Number=Plur|Person=1|Poss=Yes|PronType=Prs	34	nsubj	_	_
+32	moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	34	nsubj	_	_
 33	nejsou	být	AUX	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	_
 34	žádné	žádný	DET	PWFP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Neg	25	conj	_	SpaceAfter=No
 35	!	!	PUNCT	Z:-------------	_	3	punct	_	_
@@ -97,7 +97,7 @@
 22	,	,	PUNCT	Z:-------------	_	26	punct	_	_
 23	jež	jenž	PRON	PJFS1----------	Case=Nom|Gender=Fem|Number=Sing|PrepCase=Npr|PronType=Rel	26	nsubj	_	_
 24	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	27	case	_	_
-25	tvém	tvůj	DET	P8ZS6----------	Animacy=Inan|Case=Loc|Gender=Masc|Number[psor]=Sing|Number=Sing|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	27	obl	_	_
+25	tvém	tvůj	DET	P8ZS6----------	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	27	obl	_	_
 26	kotví	kotvit	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl:relcl	_	_
 27	hrobě	hrob	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	26	obl	_	_
 28	a	a	CCONJ	J^-------------	_	33	cc	_	_
@@ -125,7 +125,7 @@
 13	,	,	PUNCT	Z:-------------	_	19	punct	_	_
 14	ale	ale	CCONJ	J^-------------	_	19	cc	_	_
 15	pod	pod	ADP	RR--7----------	AdpType=Prep|Case=Ins	18	case	_	_
-16	mou	můj	DET	PSFS7-S1------1	Case=Ins|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+16	mou	můj	DET	PSFS7-S1------1	Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
 17	horkou	horký	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	18	amod	_	_
 18	skrání	skráň	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	19	obl	_	_
 19	jest	být	AUX	VB-S---3P-AA--2	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
@@ -136,7 +136,7 @@
 24	dole	dole	ADV	Db-------------	Degree=Pos	25	advmod	_	_
 25	slyšel	slyšet	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	19	advcl	_	_
 26	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	29	det	_	_
-27	tvé	tvůj	DET	P8NS4---------1	Case=Acc|Gender=Neut|Number[psor]=Sing|Number=Sing|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	29	det	_	_
+27	tvé	tvůj	DET	P8NS4---------1	Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	29	det	_	_
 28	klidné	klidný	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	29	amod	_	_
 29	oddychání	oddychání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	25	obj	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	3	punct	_	_
@@ -165,7 +165,7 @@
 20	ti	ty	PRON	PH-S3--2-------	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	18	obl:arg	_	_
 21	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	22	case	_	_
 22	lásce	láska	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	18	obl:arg	_	_
-23	naší	můj	DET	PSFS6-P1-------	Case=Loc|Gender=Fem|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	SpaceAfter=No
+23	naší	můj	DET	PSFS6-P1-------	Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	22	det	_	SpaceAfter=No
 24	,	,	PUNCT	Z:-------------	_	28	punct	_	_
 25	a	a	CCONJ	J^-------------	_	28	cc	_	_
 26	že	že	SCONJ	J,-------------	_	28	mark	_	_
