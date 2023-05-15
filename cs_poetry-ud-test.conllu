@@ -538,7 +538,7 @@
 12	kam	kam	ADV	Db-------------	PronType=Int	11	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = 0083-0001-0001-0000-0015-0000_100
+# sent_id = 0083-0001-0001-0000-0015-0000_10
 # text = Na horu slož mě zelenou, kde bílé mráčky nebem jdou, kde vidět v dálky kolkolem, co v nebi je, co dělá zem – kde s výše slunná, zářivá se Tvoje tváře usmívá, kde vidět světů, věků běh – tam spočinout mě chvíli nech – a až se zpiju zázraky, zas, Bože, pusť mě – na draky.
 1	Na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	2	case	_	_
 2	horu	hora	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
@@ -556,7 +556,7 @@
 14	vidět	vidět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	11	conj	_	_
 15	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	16	case	_	_
 16	dálky	dálka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	14	obl	_	_
-17	kolkolem	kolkolem	ADV	NNIS7-----A----	=	14	advmod	_	SpaceAfter=No
+17	kolkolem	kolkolem	ADV	NNIS7-----A----	Polarity=Pos	14	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	22	punct	_	_
 19	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int	22	nsubj	_	_
 20	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	21	case	_	_
@@ -608,7 +608,7 @@
 66	draky	drak	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	62	obl	_	SpaceAfter=No
 67	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0083-0001-0001-0000-0015-0000_111
+# sent_id = 0083-0001-0001-0000-0015-0000_11
 # text = Hořký je život, těžké svědomí, když věčnost neznáma a v dálce tmy.
 1	Hořký	hořký	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
 2	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
@@ -626,7 +626,7 @@
 14	tmy	tma	NOUN	NNFS2-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Style=Arch	13	orphan	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0083-0001-0001-0000-0015-0000_122
+# sent_id = 0083-0001-0001-0000-0015-0000_12
 # text = O, jediné jen dej mi slyšet slovo: Ego te absolvo!
 1	O	o	INTJ	II-------------	_	5	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
@@ -972,7 +972,7 @@
 1	Do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	_
 2	„	"	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 3	Lumíru	Lumír	PROPN	NNIXX-----A----	Animacy=Inan|Gender=Masc|NameType=Com|Polarity=Pos	5	obl	_	_
-4	“	“	PUNCT	NNIXX-----A----	=	3	punct	_	_
+4	“	“	PUNCT	NNIXX-----A----	_	3	punct	_	_
 5	napsal	napsat	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 6	článek	článek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	obj	_	SpaceAfter=No
 7	*	*	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
@@ -984,7 +984,7 @@
 13	Otto	Otto	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	12	flat	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 0132-0001-0001-0000-0011-0000_90
+# sent_id = 0132-0001-0001-0000-0011-0000_9
 # text = Vyložil jsem stručně, jasně – nechci za to žádné věnce! – s důkladností historika vznik a zánik dekadence.
 1	Vyložil	vyložit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
@@ -1008,7 +1008,7 @@
 20	dekadence	dekadence	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0132-0001-0001-0000-0011-0000_102
+# sent_id = 0132-0001-0001-0000-0011-0000_10
 # text = Mohu také udat pramen.
 1	Mohu	moci	VERB	VB-S---1P-AA--1	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	také	také	ADV	Db-------------	_	1	advmod:emph	_	_
@@ -1016,7 +1016,7 @@
 4	pramen	pramen	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0132-0001-0001-0000-0011-0000_113
+# sent_id = 0132-0001-0001-0000-0011-0000_11
 # text = Tam se čtenář více doví.
 1	Tam	tam	ADV	Db-------------	PronType=Dem	5	advmod	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	_
@@ -1025,7 +1025,7 @@
 5	doví	dovědět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Rare|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 0132-0001-0001-0000-0011-0000_124
+# sent_id = 0132-0001-0001-0000-0011-0000_12
 # text = Deset let už o tom píše, pan Vejr v Švandě Dudákovi.
 1	Deset	deset	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	2	nummod:gov	_	_
 2	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	6	obl	_	_
@@ -1216,7 +1216,7 @@
 18	plove	plovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_100
+# sent_id = 0215-0001-0001-0000-0016-0000_10
 # text = A ve trojhlavém starci šesti zraků jej Slovan ctil a v hromobitném mraku.
 1	A	a	CCONJ	J^-------------	_	9	advmod:emph	_	_
 2	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	4	case	_	_
@@ -1233,7 +1233,7 @@
 13	mraku	mrak	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_111
+# sent_id = 0215-0001-0001-0000-0016-0000_11
 # text = A v ženách květných vnad a v zjevech reků lid římský bohy zřel i národ Řeků.
 1	A	a	CCONJ	J^-------------	_	13	advmod:emph	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
@@ -1253,7 +1253,7 @@
 16	Řeků	Řek	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur|Polarity=Pos	15	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_122
+# sent_id = 0215-0001-0001-0000-0016-0000_12
 # text = A v beránku a holubici bílé my obraz boží vidíme té chvíle.
 1	A	a	CCONJ	J^-------------	_	10	advmod:emph	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
@@ -1269,7 +1269,7 @@
 12	chvíle	chvíle	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_133
+# sent_id = 0215-0001-0001-0000-0016-0000_13
 # text = A dál a dál, vždy jiným bude videm Bůh časům jinakým a jiným lidem.
 1	A	a	CCONJ	J^-------------	_	9	advmod:emph	_	_
 2	dál	daleko	ADV	Db-------------	Degree=Cmp|Polarity=Pos	9	advmod	_	_
@@ -1288,7 +1288,7 @@
 15	lidem	člověk	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	12	conj	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_144
+# sent_id = 0215-0001-0001-0000-0016-0000_14
 # text = – Co z chaosu vstal svět náš přeubohý, dle představ svých si člověk tvoří bohy.
 1	–	–	PUNCT	Z:-------------	_	15	punct	_	_
 2	Co	co	SCONJ	PQ--4----------	_	5	mark	_	_
@@ -1308,7 +1308,7 @@
 16	bohy	bůh	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	15	obj	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	15	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_155
+# sent_id = 0215-0001-0001-0000-0016-0000_15
 # text = Leč onen Veliký tam v slunném jasu jest nad pomysly božství všech i času.
 1	Leč	leč	CCONJ	J,-------------	_	8	advmod:emph	_	_
 2	onen	onen	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -1326,7 +1326,7 @@
 14	času	čas	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	11	conj	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_166
+# sent_id = 0215-0001-0001-0000-0016-0000_16
 # text = Je v dobru skryt a ve pravdě a kráse a v útrpnosti na svět usmívá se.
 1	Je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
@@ -1346,7 +1346,7 @@
 16	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	15	expl:pv	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_177
+# sent_id = 0215-0001-0001-0000-0016-0000_17
 # text = –
 1	–	–	ADP	NNNXX-----A----	_	0	root	_	_
 
@@ -1691,14 +1691,14 @@
 3	samice	samice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	_	SpaceAfter=No
 4	!	!	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_100
+# sent_id = 0362-0001-0003-0000-0011-0000_10
 # text = Ty oči smilnící!
 1	Ty	ten	DET	PDFP1----------	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	det	_	_
 2	oči	oko	NOUN	NNFP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	0	root	_	_
 3	smilnící	smilnící	ADJ	AAFP1----1A----	Aspect=Imp|Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	SpaceAfter=No
 4	!	!	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_111
+# sent_id = 0362-0001-0003-0000-0011-0000_11
 # text = Ale ještě nyní oživuješ na chvíli, Žár bílý kdy se snese na město Oněmlé v dusnu...
 1	Ale	ale	CCONJ	J^-------------	_	4	advmod:emph	_	_
 2	ještě	ještě	ADV	Db-------------	_	3	advmod:emph	_	_
@@ -1721,7 +1721,7 @@
 19	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_122
+# sent_id = 0362-0001-0003-0000-0011-0000_12
 # text = V starobných ambitech, kde ztuhlá světic ctnost V škrobených límcích španělských se vztyčuje, Kde marně Šebestián sličný Kypící nahotu, Drážděné šípem genitálie ukazuje, Aby sváděl ctnostně odvrácené zraky, Ty potměšilou vlnu ňader, Tak měkce tajících, teď svůdně rozléváš, Své tělo zase obnažuješ, tolika tknuté milenci, A dráždíš pletí tolika ústy zlíbanou A klínem, tolika vášněmi rozrývaným, A očima samice, očima smilnýma.
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
 2	starobných	starobný	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Style=Arch	3	amod	_	_
@@ -1801,13 +1801,13 @@
 75	smilnýma	smilný	ADJ	AAFD7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Dual|Polarity=Pos	74	amod	_	SpaceAfter=No
 76	.	.	PUNCT	Z:-------------	_	46	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_133
+# sent_id = 0362-0001-0003-0000-0011-0000_13
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_144
+# sent_id = 0362-0001-0003-0000-0011-0000_14
 # text = Ty v rudých vlasů záplavě, Zsinalá v truchlé póze kajícnice, Zoufalé duše vyslyš modlitbu, Jež prosí tebe: rozpěň moji krev, Nauč mne hřešit, neřestí jít pevně, Nevěstko – Světice!
 1	Ty	ty	PRON	PP-S1--2-------	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
@@ -1847,13 +1847,13 @@
 36	Světice	Světice	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	34	appos	_	SpaceAfter=No
 37	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_155
+# sent_id = 0362-0001-0003-0000-0011-0000_15
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_166
+# sent_id = 0362-0001-0003-0000-0011-0000_16
 # text = Rozkoše dám tobě jméno teskné, Ať v tiché slávě jako magický skvost bleskne!
 1	Rozkoše	rozkoš	NOUN	NNFS3-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
 2	dám	dát	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -1871,13 +1871,13 @@
 14	bleskne	blesknout	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	SpaceAfter=No
 15	!	!	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_177
+# sent_id = 0362-0001-0003-0000-0011-0000_17
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_188
+# sent_id = 0362-0001-0003-0000-0011-0000_18
 # text = Ať jiné pro ctnost svou, Ty pro hřích vešla jsi v zář nebeskou!
 1	Ať	ať	PART	TT-------------	_	2	cc	_	_
 2	jiné	jiný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	10	orphan	_	_
@@ -1895,7 +1895,7 @@
 14	nebeskou	nebeský	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	SpaceAfter=No
 15	!	!	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_199
+# sent_id = 0362-0001-0003-0000-0011-0000_19
 # text = Ať jiné, muži netknuté, jen Věčné lásce byly věrné, Ty's rozdávala svůdně lásky efemerné, Ty's ožívala znova v dráždivém smyslů dobrodružství, V bláznovství lehtání, v alarmu vzkypělého mužství.
 1	Ať	ať	SCONJ	TT-------------	_	11	mark	_	_
 2	jiné	jiný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	11	dep	_	SpaceAfter=No
@@ -1937,36 +1937,36 @@
 38	mužství	mužství	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	36	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_200
+# sent_id = 0362-0001-0003-0000-0011-0000_20
 # text = Maria Magdaleno!
 1	Maria	Maria	PROPN	NNFS1-----A----	Case=Voc|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	0	root	_	_
 2	Magdaleno	Magdaleno	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|NameType=Giv|Polarity=Pos	1	flat	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_211
+# sent_id = 0362-0001-0003-0000-0011-0000_21
 # text = Světice smyslnosti žhavé!
 1	Světice	světice	NOUN	NNFP1-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 2	smyslnosti	smyslnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_
 3	žhavé	žhavý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	SpaceAfter=No
 4	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_222
+# sent_id = 0362-0001-0003-0000-0011-0000_22
 # text = Patrona lascivorum!
 1	Patrona	patrona	NOUN	NNFS1-----A----	Case=Voc|Foreign=Yes|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 2	lascivorum	lascivorum	NOUN	NNNS1-----A----	Case=Gen|Foreign=Yes|Gender=Neut|Number=Sing|Polarity=Pos	1	dep	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_233
+# sent_id = 0362-0001-0003-0000-0011-0000_23
 # text = Ave!
 1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_244
+# sent_id = 0362-0001-0003-0000-0011-0000_24
 # text = Ave!
 1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0362-0001-0003-0000-0011-0000_255
+# sent_id = 0362-0001-0003-0000-0011-0000_25
 # text = Ave!
 1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
@@ -2286,7 +2286,7 @@
 12	ulicemi	ulice	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	11	obl	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 0576-0001-0000-0000-0023-0002_100
+# sent_id = 0576-0001-0000-0000-0023-0002_10
 # text = A za jásotu ulic Otho vešel v císařský palác.
 1	A	a	CCONJ	J^-------------	_	6	advmod:emph	_	_
 2	za	za	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	_
@@ -2299,7 +2299,7 @@
 9	palác	palác	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = 0576-0001-0000-0000-0023-0002_111
+# sent_id = 0576-0001-0000-0000-0023-0002_11
 # text = Potom bylo ticho.
 1	Potom	potom	ADV	Db-------------	_	2	advmod	_	_
 2	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -2415,7 +2415,7 @@
 4	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
 5	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 0581-0001-0001-0000-0034-0000_100
+# sent_id = 0581-0001-0001-0000-0034-0000_10
 # text = Co nevidět, snad tma tu bude v ráz a k spánku bez procitnutí pak čas.
 1	Co	co	ADV	Db-------------	_	2	fixed	_	_
 2	nevidět	vidět	VERB	Vf--------N----	Polarity=Neg|VerbForm=Inf	7	advcl	_	SpaceAfter=No
@@ -2435,7 +2435,7 @@
 16	čas	čas	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	orphan	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = 0581-0001-0001-0000-0034-0000_111
+# sent_id = 0581-0001-0001-0000-0034-0000_11
 # text = A kraj ten celý se mnou zapadne a ticho zbude po něm záhadné, a nikdo nepoví, co za hory já ještě zřel a jaké obzory...
 1	A	a	CCONJ	J^-------------	_	7	advmod:emph	_	_
 2	kraj	kraj	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	7	nsubj	_	_
@@ -3171,7 +3171,7 @@
 13	perleť	perleť	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	14	obj	_	_
 14	opřádá	opřádat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
 15	;	;	PUNCT	Z:-------------	_	31	punct	_	_
-16	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int	17	nummod:gov	_	_
+16	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int	19	nsubj	_	_
 17	tu	tady	ADV	Db------------1	PronType=Dem	19	advmod	_	_
 18	škeblí	škeble	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	19	obl:arg	_	_
 19	odpočívá	odpočívat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	SpaceAfter=No
@@ -3371,7 +3371,7 @@
 18	!	!	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
 19	!	!	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = 0674-0001-0006-0000-0019-0000_100
+# sent_id = 0674-0001-0006-0000-0019-0000_10
 # text = –“ Pozdní večer; plamínek se míhá Na krbu, v světnici stíny rodí V spolku s Lůnou; – – venku hluk se zdvíhá, Mladá chasa hlučné žerty plodí, Nebo čas jest, kde se k přástvě sbíhá.
 1	–	–	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
 2	“	"	PUNCT	Z:-------------	_	1	punct	_	_
@@ -3417,7 +3417,7 @@
 42	sbíhá	sbíhat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	35	acl:relcl	_	SpaceAfter=No
 43	.	.	PUNCT	Z:-------------	_	26	punct	_	_
 
-# sent_id = 0674-0001-0006-0000-0019-0000_115
+# sent_id = 0674-0001-0006-0000-0019-0000_11
 # text = – Víc a více světnice se plní, Hovor hlučí, kouř se z dýmek vlní; Při stropu ho plamínku zář zlatí.
 1	–	–	PUNCT	Z:-------------	_	7	punct	_	_
 2	Víc	hodně	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	7	advmod	_	_
@@ -3444,7 +3444,7 @@
 23	zlatí	zlatit	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	parataxis	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	23	punct	_	_
 
-# sent_id = 0674-0001-0006-0000-0019-0000_127
+# sent_id = 0674-0001-0006-0000-0019-0000_12
 # text = Starci ještě hlučný hovor vedou, Brzo jeden po druhém se tratí V tmavou kobku; a co dívky předou, Hoši v hlučné hře a smíchu dlí: Mnohý stařec v tichém lůžku spí.
 1	Starci	stařec	NOUN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	nsubj	_	_
 2	ještě	ještě	ADV	Db-------------	_	5	advmod	_	_
@@ -3770,7 +3770,7 @@
 24	volají	volat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_100
+# sent_id = 0705-0004-0000-0000-0003-0000_10
 # text = – A nad propastmi na tvrdém, kamenném trůně sedí On, Satan, náruč rozevřená vyhnaným dítkám Evy, oheň přívětivý v kraji podzimkovém, síla duší, pýcha srdcí lidských, a čeká.
 1	–	–	PUNCT	Z:-------------	_	10	punct	_	_
 2	A	a	CCONJ	J^-------------	_	10	advmod:emph	_	_
@@ -3809,7 +3809,7 @@
 35	čeká	čekat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_111
+# sent_id = 0705-0004-0000-0000-0003-0000_11
 # text = Výheň žhavých jeho zřítelnic plá, maják záchranný, ve tmách země, svadlé pod těžkou stopou Nazaretského.
 1	Výheň	výheň	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	_	_
 2	žhavých	žhavý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	4	amod	_	_
@@ -3831,7 +3831,7 @@
 18	Nazaretského	Nazaretský	ADJ	AAMS2----1A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_122
+# sent_id = 0705-0004-0000-0000-0003-0000_12
 # text = A on čeká velikým čekáním silných, neboť i jeho koráby přirazí ku břehům žití a vítězné i polnice jeho zástupů v Kanaán života vtrhnou, kde nalité hrozny révy pro všechna zardí se ústa na luzích, jež vzkvetou barvami, jak nepoznala jich země, zkropená rosou volných, širokých nebes, jež morózní suverén opustil, zahnán radostí lidskou.
 1	A	a	CCONJ	J^-------------	_	3	advmod:emph	_	_
 2	on	on	PRON	PPYS1--3-------	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -3897,7 +3897,7 @@
 62	lidskou	lidský	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	61	amod	_	SpaceAfter=No
 63	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_133
+# sent_id = 0705-0004-0000-0000-0003-0000_13
 # text = To bude člověka chvíle největší.
 1	To	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
 2	bude	být	AUX	VB-S---3F-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	4	cop	_	_
@@ -3906,7 +3906,7 @@
 5	největší	velký	ADJ	AAFS1----3A----	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_144
+# sent_id = 0705-0004-0000-0000-0003-0000_14
 # text = A žena krásná s očima sálajícíma a s ňadry vřelými na Golgatu vystoupí nahá, květ stylizovaný v melodii žhavou, bílý zázrak v metamorfóze tvarů, a jemně skloní na ňadra výskající hlavu zkrvavělou Ukřižovaného a ruce trčící do výše vyčítavě od hřebů osvobodí a tělo sejme z dřeva, jež ztrouchnivělé k nohám se jí zřítí...
 1	A	a	CCONJ	J^-------------	_	13	advmod:emph	_	_
 2	žena	žena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	13	nsubj	_	_
@@ -3970,7 +3970,7 @@
 60	.	.	PUNCT	Z:-------------	_	13	punct	_	SpaceAfter=No
 61	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_155
+# sent_id = 0705-0004-0000-0000-0003-0000_15
 # text = Jdou leta umdlená parny života, jdou hluboko dole nad řekou špíny, zločinů a krve, nad slavobranou pro básníky králů, nad blahoslavením pokorných a tichých.
 1	Jdou	jít	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	leta	rok	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos|Style=Rare	1	nsubj	_	_
@@ -4002,7 +4002,7 @@
 28	tichých	tichý	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	26	conj	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_166
+# sent_id = 0705-0004-0000-0000-0003-0000_16
 # text = Však nad propastmi na tvrdém, kamenném trůně zamračený a nahý čeká protinožec boha.
 1	Však	však	CCONJ	J^-------------	_	12	advmod:emph	_	_
 2	nad	nad	ADP	RR--7----------	AdpType=Prep|Case=Ins	3	case	_	_
@@ -4020,7 +4020,7 @@
 14	boha	bůh	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
-# sent_id = 0705-0004-0000-0000-0003-0000_177
+# sent_id = 0705-0004-0000-0000-0003-0000_17
 # text = Ve tmách hoří divoké máky a krvavě zardělý měsíc v nesmírném tichu koupá chvílemi v zálivech mračen svůj kov.
 1	Ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	2	case	_	_
 2	tmách	tma	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	3	obl	_	_
@@ -4997,7 +4997,7 @@
 25	moře	moře	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	20	obl	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_100
+# sent_id = 0973-0001-0000-0000-0004-0000_10
 # text = Tak kdys voněly tu smrky, mechy, zmlkal ret a poklekala noha před Krásou, jež utišuje vzdechy, an kol svět byl plný, plný Boha.
 1	Tak	tak	ADV	Db-------------	PronType=Dem	3	advmod	_	_
 2	kdys	kdysi	ADV	Db-------------	PronType=Ind|Style=Arch	3	advmod	_	_
@@ -5029,7 +5029,7 @@
 28	Boha	bůh	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	27	obl:arg	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_111
+# sent_id = 0973-0001-0000-0000-0004-0000_11
 # text = A vnuk jeho, pravnuk sterých rodů, jde jak stín tu, duše jeho v šeru; hledá cestu ku světlému brodu, aby přeplul kalnou nedůvěru.
 1	A	a	CCONJ	J^-------------	_	9	cc	_	_
 2	vnuk	vnuk	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	_	_
@@ -5063,7 +5063,7 @@
 29	nedůvěru	nedůvěra	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	27	obj	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_122
+# sent_id = 0973-0001-0000-0000-0004-0000_12
 # text = Hledá souzvuk, lék chce proti jedu, jde jak stín tu, duše jeho v šeře; úl je, v němž ni bzukotu, ni medu.
 1	Hledá	hledat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	souzvuk	souzvuk	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpaceAfter=No
@@ -5095,7 +5095,7 @@
 28	medu	med	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	25	conj	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_133
+# sent_id = 0973-0001-0000-0000-0004-0000_13
 # text = Z chrámu srdce vypáčeny dvéře.
 1	Z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	2	case	_	_
 2	chrámu	chrám	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	_	_
@@ -5104,7 +5104,7 @@
 5	dvéře	dveře	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Style=Rare	4	nsubj:pass	_	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_144
+# sent_id = 0973-0001-0000-0000-0004-0000_14
 # text = Vyloupena svatyně, v níž bůže měl – jen pozlátkové – místo Boha.
 1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 2	svatyně	svatyně	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	nsubj:pass	_	SpaceAfter=No
@@ -5121,12 +5121,12 @@
 13	Boha	bůh	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_155
+# sent_id = 0973-0001-0000-0000-0004-0000_15
 # text = Vyloupena?
 1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 2	?	?	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_166
+# sent_id = 0973-0001-0000-0000-0004-0000_16
 # text = Kdo tak říci může?
 1	Kdo	kdo	PRON	PKM-1----------	Animacy=Anim|Case=Nom|Gender=Masc|PronType=Int	4	nsubj	_	_
 2	tak	tak	ADV	Db-------------	PronType=Dem	4	advmod	_	_
@@ -5134,7 +5134,7 @@
 4	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_177
+# sent_id = 0973-0001-0000-0000-0004-0000_17
 # text = Kdo tak strádání smí zváti mnohá?
 1	Kdo	kdo	PRON	PKM-1----------	Animacy=Anim|Case=Nom|Gender=Masc|PronType=Int	4	nsubj	_	_
 2	tak	tak	ADV	Db-------------	PronType=Dem	4	advmod	_	_
@@ -5144,7 +5144,7 @@
 6	mnohá	mnohý	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	3	obj	_	SpaceAfter=No
 7	?	?	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_188
+# sent_id = 0973-0001-0000-0000-0004-0000_18
 # text = Očištěna svatyně, v níž bůže měl – jen pozlátkové – místo Boha; sám je vynes, jasnou vůlí muže, pouta svrhá jeho hruď i noha.
 1	Očištěna	očištěný	ADJ	VsQW---XX-AP---	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	17	advcl	_	_
 2	svatyně	svatyně	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	nsubj:pass	_	SpaceAfter=No
@@ -5161,7 +5161,7 @@
 13	Boha	bůh	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	12	nmod	_	SpaceAfter=No
 14	;	;	PUNCT	Z:-------------	_	1	punct	_	_
 15	sám	samý	DET	PLYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	17	xcomp	_	_
-16	je	on	PRON	VB-S---3P-AA---	Case=Acc|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	17	obj	_	_
+16	je	on	PRON	VB-S---3P-AA---	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
 17	vynes	vynést	VERB	ACYS------A----	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Style=Coll|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	20	punct	_	_
 19	jasnou	jasný	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	20	amod	_	_
@@ -5176,7 +5176,7 @@
 28	noha	noha	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	26	conj	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	17	punct	_	_
 
-# sent_id = 0973-0001-0000-0000-0004-0000_190
+# sent_id = 0973-0001-0000-0000-0004-0000_19
 # text = Odhazuje rouhavé ty cety, jež mu farizeji vnesli v nitro; hledá včely, medné hledá květy, by je v nitro vsadil v rosné jitro, by tam píseň zněla sladkých květů, za bzukotů čilých píseň dělná – ohlas dechu Ducha širých světů, duše živá, vroucná, nesmrtelná.
 1	Odhazuje	odhazovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	rouhavé	rouhavý	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	4	amod	_	_
@@ -5246,7 +5246,7 @@
 7	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 8	sám	samý	DET	PLYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	11	xcomp	_	_
 9	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	_	_
-10	něho	on	PRON	P5ZS2--3------1	Anim=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	11	obl	_	_
+10	něho	on	PRON	P5ZS2--3------1	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	11	obl	_	_
 11	tkám	tkát	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 12	pestré	pestrý	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	13	amod	_	_
 13	arabesky	arabeska	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	11	obj	_	SpaceAfter=No
@@ -5772,7 +5772,7 @@
 37	okem	oko	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	29	orphan	_	SpaceAfter=No
 38	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1042-0001-0007-0000-0007-0000_90
+# sent_id = 1042-0001-0007-0000-0007-0000_9
 # text = Tak znáte nás, nuž, modlám dejte cizím již výhost u Labe i u Vltavy, na Sion zapomeňte, na Garizim; vlast všady je, kde dýše člověk pravý.
 1	Tak	tak	ADV	Db-------------	PronType=Dem	2	advmod	_	_
 2	znáte	znát	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5918,7 +5918,7 @@
 
 # sent_id = 1066-0001-0002-0000-0005-0000_7
 # text = Ó básníku, ty jsi roven jemu!
-1	Ó	ó	INTJ	II-------------	_	6	advmod:emph	_	_
+1	Ó	ó	INTJ	II-------------	_	6	dep	_	_
 2	básníku	básník	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	6	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 4	ty	ty	PRON	Vi-S---2--A----	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
@@ -5949,7 +5949,7 @@
 
 # sent_id = 1066-0001-0002-0000-0005-0000_9
 # text = Ó zapři ten vzlet duše hrdé i pýchu, z lidí, skály tvrdé, chtít pravé lásky kouzlit zdroj!
-1	Ó	ó	INTJ	II-------------	_	2	advmod:emph	_	_
+1	Ó	ó	INTJ	II-------------	_	2	dep	_	_
 2	zapři	zapřít	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 3	ten	ten	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	vzlet	vzlet	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
@@ -5971,13 +5971,13 @@
 20	zdroj	zdroj	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	19	obj	_	SpaceAfter=No
 21	!	!	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1066-0001-0002-0000-0005-0000_100
+# sent_id = 1066-0001-0002-0000-0005-0000_10
 # text = Však nadarmo!
 1	Však	však	CCONJ	J^-------------	_	2	advmod:emph	_	_
 2	nadarmo	nadarmo	ADV	Db-------------	_	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1066-0001-0002-0000-0005-0000_111
+# sent_id = 1066-0001-0002-0000-0005-0000_11
 # text = Ty dál se řítíš, tvé vášni malý celý svět, bůh nad tebou, ty sotva cítíš kyj hromný, jenž tě kácí zpět.
 1	Ty	ty	PRON	PP-S1--2-------	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	dál	dále	ADV	Db-------------	_	4	advmod	_	_
@@ -6006,7 +6006,7 @@
 25	zpět	zpět	ADV	Db-------------	_	24	advmod	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 1066-0001-0002-0000-0005-0000_122
+# sent_id = 1066-0001-0002-0000-0005-0000_12
 # text = Ba ještě jásáš plesnou mukou pod nesmrtelných těžkou rukou když, ubohý, smíš krvácet!
 1	Ba	ba	PART	TT-------------	_	3	advmod:emph	_	_
 2	ještě	ještě	ADV	Db-------------	_	3	advmod:emph	_	_
@@ -6029,7 +6029,7 @@
 # newdoc id = 1191-0001-0003-0000-0002-0000
 # sent_id = 1191-0001-0003-0000-0002-0000_1
 # text = Hle, je tak bledá!
-1	Hle	hle	INTJ	II-------------	_	5	advmod:emph	_	SpacesBefore=\s|SpaceAfter=No
+1	Hle	hle	INTJ	II-------------	_	5	dep	_	SpacesBefore=\s|SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	tak	tak	ADV	Db-------------	PronType=Dem	5	advmod	_	_
@@ -6070,7 +6070,7 @@
 
 # sent_id = 1191-0001-0003-0000-0002-0000_4
 # text = O jistě neví, že teď hledím na Ni a bavím se, jak v mdloby návalu Ji zastih’ anděl spánku, k bledé skráni jak plíží se Jí zvolna, pomalu.
-1	O	o	INTJ	RR--6----------	_	3	advmod:emph	_	_
+1	O	o	INTJ	RR--6----------	_	3	dep	_	_
 2	jistě	jistě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	_	_
 3	neví	vědět	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	7	punct	_	_
@@ -6138,7 +6138,7 @@
 
 # sent_id = 1191-0001-0003-0000-0002-0000_6
 # text = Hle, k mladým ňadrum jak Jí hlava klesá vždy níž a níž – tak útlá fiala se zvolna sklání, když ji v klínu lesa přepadne vichr – aj, teď povstala!
-1	Hle	hle	INTJ	II-------------	_	9	advmod:emph	_	SpaceAfter=No
+1	Hle	hle	INTJ	II-------------	_	9	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	5	case	_	_
 4	mladým	mladý	ADJ	AANP3----1A----	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	5	amod	_	_
@@ -6173,7 +6173,7 @@
 33	povstala	povstat	VERB	VpQW---XR-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	SpaceAfter=No
 34	!	!	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_70
+# sent_id = 1191-0001-0003-0000-0002-0000_7
 # text = A trhla sebou, vymrštila řasy, dvé sluncí svitlo jako blesk a blesk, snad zrak bych klopil před těmito jasy, však mlha východu jich mírní lesk.
 1	A	a	CCONJ	J^-------------	_	2	advmod:emph	_	_
 2	trhla	trhnout	VERB	VpQW---XR-AA--1	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -6206,7 +6206,7 @@
 29	lesk	lesk	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	28	obj	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_81
+# sent_id = 1191-0001-0003-0000-0002-0000_8
 # text = Jak chce se tvářit silnou, vážnou, chladnou! – že nejsem v této chvíli malířem! – a sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem.
 1	Jak	jak	ADV	Db-------------	PronType=Int	2	advmod	_	_
 2	chce	chtít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -6243,10 +6243,10 @@
 33	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	29	obl	_	SpaceAfter=No
 34	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_94
+# sent_id = 1191-0001-0003-0000-0002-0000_9
 # text = – O marně snu se jako lásce bráníš, Ty vzdorné dítě s duší nevinnou, než pomyslit si můžeš, mdle juž skláníš Svou nezkušenou hlavu dětinnou!
 1	–	–	PUNCT	Z:-------------	_	8	punct	_	_
-2	O	o	INTJ	RR--6----------	_	8	advmod:emph	_	_
+2	O	o	INTJ	RR--6----------	_	8	dep	_	_
 3	marně	marně	ADJ	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	_	_
 4	snu	sen	NOUN	NNIS6-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	8	obl:arg	_	_
 5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	_	_
@@ -6275,14 +6275,14 @@
 28	dětinnou	dětinný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	27	amod	_	SpaceAfter=No
 29	!	!	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_105
+# sent_id = 1191-0001-0003-0000-0002-0000_10
 # text = Co ostych platen?
 1	Co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int	3	obj	_	_
 2	ostych	ostych	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	_	_
 3	platen	platný	ADJ	NNIS1-----A----	Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_116
+# sent_id = 1191-0001-0003-0000-0002-0000_11
 # text = Skloň se, hlavo mladá! ať spánku čaroděj tak jako všem budoucí štěstí z karet svých Ti hádá – naslouchat budeš ráda slovům těm!
 1	Skloň	skloňt	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	SpaceAfter=No
@@ -6311,7 +6311,7 @@
 25	těm	ten	DET	PDXP3----------	Case=Dat|Number=Plur|PronType=Dem	24	det	_	SpaceAfter=No
 26	!	!	PUNCT	Z:-------------	_	19	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_129
+# sent_id = 1191-0001-0003-0000-0002-0000_12
 # text = A pokud můžeš, věř těm kartám jeho, že pravdu ví, že božskou pravdu dí a dej Ti bůh, ať ze snu rozkošného ni den ni člověk Tebe nevzbudí!
 1	A	a	CCONJ	J^-------------	_	5	cc	_	_
 2	pokud	pokud	SCONJ	J,-------------	_	3	mark	_	_
@@ -6347,14 +6347,14 @@
 32	nevzbudí	vzbudit	VERB	VB-S---3P-NA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	SpaceAfter=No
 33	!	!	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_130
+# sent_id = 1191-0001-0003-0000-0002-0000_13
 # text = Zas svírá víčka.
 1	Zas	zas	ADV	Db-------------	_	2	advmod	_	_
 2	svírá	svírat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	víčka	víčko	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_141
+# sent_id = 1191-0001-0003-0000-0002-0000_14
 # text = Hebkou jejich bělí přec zdá se stále, jak by prosvital těch skrytých očí oheň čaroskvělý a plachou jiskrou po nich se kmital.
 1	Hebkou	hebka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
 2	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
@@ -6381,7 +6381,7 @@
 23	kmital	kmitat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 1191-0001-0003-0000-0002-0000_152
+# sent_id = 1191-0001-0003-0000-0002-0000_15
 # text = A ku ňadrům Jí zase hlava klesá vždy níž a níž – v tom křísí se vždy zas v mdlých rozpacích a opěť snivě klesá. – Komu to dítě v náruč padne as?
 1	A	a	CCONJ	J^-------------	_	7	advmod:emph	_	_
 2	ku	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	3	case	_	_
@@ -6425,7 +6425,7 @@
 # text = Plyň, ó duše, do věčnosti Mezy kůry anjelské!
 1	Plyň	plyň	VERB	Vi-S---2--A----	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpacesBefore=\s|SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	1	punct	_	_
-3	ó	ó	INTJ	II-------------	_	1	advmod:emph	_	_
+3	ó	ó	INTJ	II-------------	_	1	dep	_	_
 4	duše	duše	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	1	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	1	punct	_	_
 6	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
@@ -6544,7 +6544,7 @@
 21	cýt	cit	NOUN	NNIS1-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|Style=Arch	19	obj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_80
+# sent_id = 1324-0001-0000-0000-0001-0000_8
 # text = Závist, tato litá saně, V hradech, budkách panuje, Jako dravé, kruté káně V krvi jenom hoduje.
 1	Závist	závist	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	11	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
@@ -6569,7 +6569,7 @@
 21	hoduje	hodovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_91
+# sent_id = 1324-0001-0000-0000-0001-0000_9
 # text = Podvod, klam a ošemetnost Tejrá, tiskne poctivost, Žáhne v obcých nedůvěrnost, Hasý pro ctnost dychtivost.
 1	Podvod	podvod	NOUN	NNIS4-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	3	punct	_	_
@@ -6592,7 +6592,7 @@
 19	dychtivost	dychtivost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	16	obj	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_102
+# sent_id = 1324-0001-0000-0000-0001-0000_10
 # text = Člověk člověku jest bědou, Moří jeden druhého; Zlosti tenat dosti pletou K zahubení Dobrého.
 1	Člověk	člověk	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	_	_
 2	člověku	člověk	NOUN	NNMS3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	obl:arg	_	_
@@ -6612,23 +6612,23 @@
 16	Dobrého	dobrý	ADJ	AAMS2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	15	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_114
+# sent_id = 1324-0001-0000-0000-0001-0000_11
 # text = Ejhle, rozkoš toho světa!
-1	Ejhle	ejhle	INTJ	II-------------	_	3	advmod:emph	_	SpaceAfter=No
+1	Ejhle	ejhle	INTJ	II-------------	_	3	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	3	punct	_	_
 3	rozkoš	rozkoš	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 4	toho	ten	DET	PDZS2----------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	světa	svět	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	_	SpaceAfter=No
 6	!	!	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_125
+# sent_id = 1324-0001-0000-0000-0001-0000_12
 # text = Ejhle jeho blaženost!
 1	Ejhle	ejhle	ADV	II-------------	_	3	advmod	_	_
 2	jeho	jeho	DET	PSXXXZS3-------	Gender[psor]=Masc|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	blaženost	blaženost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
 4	!	!	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_136
+# sent_id = 1324-0001-0000-0000-0001-0000_13
 # text = Taž se o tom ctného kmeta, Řekne: – Vše jest ničemnost.
 1	Taž	tázat	VERB	Db-------------	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
@@ -6645,18 +6645,18 @@
 13	ničemnost	ničemnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	ccomp	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_147
+# sent_id = 1324-0001-0000-0000-0001-0000_14
 # text = Plyň, ó duše, do věčnosti!
 1	Plyň	plynout	VERB	Vi-S---2--A----	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	1	punct	_	_
-3	ó	ó	INTJ	II-------------	_	1	advmod:emph	_	_
+3	ó	ó	INTJ	II-------------	_	1	dep	_	_
 4	duše	duše	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	1	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	1	punct	_	_
 6	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
 7	věčnosti	věčnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl	_	SpaceAfter=No
 8	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_158
+# sent_id = 1324-0001-0000-0000-0001-0000_15
 # text = Lepší tam jest pro tě svět; Vyleť z hrubé poddanosti Tam, kde nepomine květ.
 1	Lepší	dobrý	ADJ	AANS1----2A----	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	_	_
 2	tam	tam	ADV	Db-------------	PronType=Dem	3	advmod	_	_
@@ -6676,18 +6676,18 @@
 16	květ	květ	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	15	nsubj	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_160
+# sent_id = 1324-0001-0000-0000-0001-0000_16
 # text = Plyň, ó duše, do věčnosti, Kdež jen láska králuje, Kdež se všecko v společnosti Svatě, věčně miluje.
 1	Plyň	plynout	VERB	Vi-S---2--A----	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	1	punct	_	_
-3	ó	ó	INTJ	II-------------	_	1	advmod:emph	_	_
+3	ó	ó	INTJ	II-------------	_	1	dep	_	_
 4	duše	duše	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	1	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	1	punct	_	_
 6	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
 7	věčnosti	věčnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl	_	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	12	punct	_	_
 9	Kdež	kdež	ADV	J,-------------	PronType=Rel|Style=Arch	12	advmod	_	_
-10	jen	jen	PART	TT-------------	_	11	advmod:emph	_	_
+10	jen	jen	PART	TT-------------	_	11	dep	_	_
 11	láska	láska	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	12	nsubj	_	_
 12	králuje	kralovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	22	punct	_	_
@@ -6702,11 +6702,11 @@
 22	miluje	milovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No
 23	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
-# sent_id = 1324-0001-0000-0000-0001-0000_171
+# sent_id = 1324-0001-0000-0000-0001-0000_17
 # text = Dejž, ó Bože! dosti sýly, V pravé víře setrvat, Abychom tak hodni byli V věčné slávě oplívat!
 1	Dejž	dejž	VERB	II-------------	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	1	punct	_	_
-3	ó	ó	INTJ	II-------------	_	1	advmod:emph	_	_
+3	ó	ó	INTJ	II-------------	_	1	dep	_	_
 4	Bože	bůh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	1	vocative	_	SpaceAfter=No
 5	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 6	dosti	dost	ADV	Dg-------1A---3	Degree=Pos|Polarity=Pos|Style=Arch	1	obj	_	_
@@ -6811,7 +6811,7 @@
 
 # sent_id = 1474-0001-0002-0000-0004-0000_3
 # text = Ach, jak to dávno již, co tělem bývaly, co teplo cítil'jsi jejich měkkých objetí, co okem hořícím se v duši dívaly – teď, bože, teď jsou míň, než ptáče na sněti.
-1	Ach	ach	INTJ	II-------------	_	5	advmod:emph	_	SpaceAfter=No
+1	Ach	ach	INTJ	II-------------	_	5	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	jak	jak	ADV	Db-------------	PronType=Int	5	mark	_	_
 4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
@@ -7232,7 +7232,7 @@
 19	tvoje	tvůj	DET	P8XP4----------	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	18	det	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = 1692-0001-0001-0000-0058-0000_90
+# sent_id = 1692-0001-0001-0000-0058-0000_9
 # text = To věčné v životě – je láska.
 1	To	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
 2	věčné	věčný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	amod	_	_
