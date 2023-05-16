@@ -1341,10 +1341,6 @@
 16	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	15	expl:pv	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_17
-# text = –
-1	–	–	ADP	NNNXX-----A----	_	0	root	_	_
-
 # newdoc id = 0243-0001-0002-0000-0034-0000
 # sent_id = 0243-0001-0002-0000-0034-0000_1
 # text = Měl jsem dítě dcerku zlatou, krásnou jako zoru, s růžným líčkem, s rusou hlavou, jako kněžku usměvavou vil bělostných čarovného sboru.
