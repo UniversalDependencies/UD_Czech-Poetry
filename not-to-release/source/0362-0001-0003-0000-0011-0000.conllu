@@ -228,7 +228,7 @@
 15	,	,	PUNCT	Z:-------------	_	26	punct	_	_
 16	Kde	kde	ADV	Db-------------	PronType=Rel	26	advmod	_	_
 17	marně	marně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	26	advmod	_	_
-18	Šebestián	Šebestián	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	26	conj	_	_
+18	Šebestián	Šebestián	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	26	nsubj	_	_
 19	sličný	sličný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
 20	Kypící	kypící	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	21	amod	_	_
 21	nahotu	nahota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	26	obj	_	SpaceAfter=No
@@ -333,7 +333,7 @@
 34	Nevěstko	nevěstka	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	15	vocative	_	_
 35	–	–	PUNCT	Z:-------------	_	36	punct	_	_
 36	Světice	Světice	PROPN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	34	appos	_	SpaceAfter=No
-37	!	!	PUNCT	Z:-------------	_	1	punct	_	_
+37	!	!	PUNCT	Z:-------------	_	15	punct	_	_
 
 # sent_id = 0362-0001-0003-0000-0011-0000_15
 # text = Maria Magdaleno!
@@ -458,5 +458,4 @@
 # text = Ave!
 1	Ave	ave	INTJ	II-------------	_	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	Z:-------------	_	1	punct	_	_
-
 

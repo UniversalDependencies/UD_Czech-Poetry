@@ -91,7 +91,7 @@
 11	,	,	PUNCT	Z:-------------	_	14	punct	_	_
 12	jak	jak	SCONJ	J,-------------	_	14	mark	_	_
 13	by	být	AUX	Vc-------------	Mood=Cnd|VerbForm=Fin	14	aux	_	_
-14	prosvital	prosvítat	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Style=Arch|Tense=Past|VerbForm=Part|Voice=Act	8	csubj	_	_
+14	prosvital	prosvítat	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Style=Arch|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	_
 15	těch	ten	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	17	det	_	_
 16	skrytých	skrytý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	17	amod	_	_
 17	očí	oko	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	18	obl:arg	_	_
@@ -390,5 +390,4 @@
 33	padne	padnout	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	25	parataxis	_	_
 34	as	as	PART	TT-------------	Style=Arch	33	advmod	_	SpaceAfter=No
 35	?	?	PUNCT	Z:-------------	_	7	punct	_	_
-
 

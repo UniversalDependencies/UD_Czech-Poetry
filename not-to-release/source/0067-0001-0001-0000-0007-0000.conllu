@@ -167,7 +167,7 @@
 17	rov	rov	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	14	obl	_	_
 18	mu	on	PRON	PHZS3--3-------	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	14	obl	_	_
 19	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	21	case	_	_
-20	Bílé	bílý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	21	flat	_	_
+20	Bílé	bílý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	21	amod	_	_
 21	hoře	hora	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	14	obl	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
@@ -230,5 +230,4 @@
 29	vše	všechen	DET	PLFP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	30	det	_	_
 30	děvy	děva	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Style=Arch	28	nsubj	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	1	punct	_	_
-
 

@@ -45,7 +45,7 @@
 42	Ejhle	ejhle	INTJ	II-------------	_	43	discourse	_	_
 43	žití	žití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	37	ccomp	_	SpaceAfter=No
 44	!	!	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
-45	“	"	PUNCT	Z:-------------	_	37	punct	_	_
+45	“	"	PUNCT	Z:-------------	_	3	punct	_	_
 
 # sent_id = 1010-0001-0001-0000-0001-0000_2
 # text = Kde přestanu, tam kouzelnice Noc začíná tkáti na myšlének stavu, kam nedospěl jsem, jde mi na pomoc, o hvězdy nebes zloupí vlastní hlavu, k nim rosu dá, co v květinách se třpytí, řkouc tiše: Ejhle žití!
@@ -150,5 +150,4 @@
 6	jest	být	AUX	VB-S---3P-AA--2	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 7	žití	žití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nsubj	_	SpaceAfter=No
 8	?	?	PUNCT	Z:-------------	_	3	punct	_	_
-
 

@@ -354,7 +354,7 @@
 9	,	,	PUNCT	Z:-------------	_	12	punct	_	_
 10	jen	jen	PART	TT-------------	_	12	advmod:emph	_	_
 11	její	jeho	DET	PSZS1FS3-------	Animacy=Anim|Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
-12	nepřítel	nepřítel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	15	conj	_	_
+12	nepřítel	nepřítel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	15	nsubj	_	_
 13	že	že	SCONJ	J,-------------	_	15	mark	_	_
 14	naším	můj	DET	PSZS7-P1-------	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
 15	sokem	sok	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	8	conj	_	SpaceAfter=No
@@ -387,7 +387,7 @@
 1	Tak	tak	ADV	Db-------------	PronType=Dem	2	advmod	_	_
 2	znáte	znát	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	nás	já	PRON	PP-P4--1-------	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	SpaceAfter=No
-4	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+4	,	,	PUNCT	Z:-------------	_	2	punct	_	_
 5	nuž	nuž	PART	TT-------------	_	2	advmod:emph	_	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	8	punct	_	_
 7	modlám	modla	NOUN	NNFP3-----A----	Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos	8	obl:arg	_	_
@@ -417,5 +417,4 @@
 31	člověk	člověk	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	30	nsubj	_	_
 32	pravý	pravý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	31	amod	_	SpaceAfter=No
 33	.	.	PUNCT	Z:-------------	_	2	punct	_	_
-
 

@@ -47,8 +47,8 @@
 44	duši	duše	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	49	obj	_	_
 45	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	46	case	_	_
 46	těla	tělo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	49	obl	_	_
-47	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	48	goeswith	_	_
-48	vždy	vždy	ADV	Db-------------	PronType=Tot	49	advmod	_	_
+47	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc|Style=Arch	48	case	_	_
+48	vždy	vždy	ADV	Db-------------	PronType=Tot|Style=Arch	49	advmod	_	_
 49	vylíbat	vylíbat	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	43	xcomp	_	SpaceAfter=No
 50	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
@@ -139,5 +139,4 @@
 35	kraj	kraj	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	36	obl	_	_
 36	naplnit	naplnit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	31	xcomp	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	1	punct	_	_
-
 

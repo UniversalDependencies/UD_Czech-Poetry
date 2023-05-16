@@ -139,7 +139,7 @@
 5	Bajušáku	Bajušák	PROPN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	3	appos	_	_
 6	–	–	PUNCT	Z:-------------	_	3	punct	_	_
 7	Kamčadále	Kamčadál	PROPN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+8	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 9	a	a	CCONJ	J^-------------	_	10	cc	_	_
 10	Peršan	Peršan	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Nat|Number=Sing|Polarity=Pos	7	conj	_	_
 11	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	_	_
@@ -301,9 +301,4 @@
 15	usmívá	usmívat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 16	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	15	expl:pv	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-
-# sent_id = 0215-0001-0001-0000-0016-0000_17
-# text = –
-1	–	–	ADP	NNNXX-----A----	_	0	root	_	_
-
 

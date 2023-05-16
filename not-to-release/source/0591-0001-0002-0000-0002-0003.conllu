@@ -90,9 +90,9 @@
 15	styky	styk	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	13	conj	_	_
 16	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	17	case	_	_
 17	dvorem	dvor	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	15	nmod	_	SpaceAfter=No
-18	,	,	PUNCT	Z:-------------	_	20	punct	_	_
+18	,	,	PUNCT	Z:-------------	_	23	punct	_	_
 19	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	20	case	_	_
-20	jmeny	jméno	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos|Style=Rare	23	conj	_	_
+20	jmeny	jméno	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos|Style=Rare	23	obl	_	_
 21	slavných	slavný	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	22	amod	_	_
 22	zvuků	zvuk	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	20	nmod	_	_
 23	chce	chtít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
@@ -288,5 +288,4 @@
 25	vlídna	vlídný	ADJ	ACQW------A----	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short	10	conj	_	_
 26	zvlášť	zvlášť	ADV	Db-------------	_	25	advmod	_	SpaceAfter=No
 27	!	!	PUNCT	Z:-------------	_	10	punct	_	_
-
 

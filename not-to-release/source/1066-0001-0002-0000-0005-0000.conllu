@@ -174,7 +174,7 @@
 4	řítíš	řítit	VERB	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	7	punct	_	_
 6	tvé	tvůj	DET	P8FS3---------1	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	_
-7	vášni	vášeň	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	8	conj	_	_
+7	vášni	vášeň	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	8	obl:arg	_	_
 8	malý	malý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	4	parataxis	_	_
 9	celý	celý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
 10	svět	svět	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	8	nsubj	_	SpaceAfter=No
@@ -213,5 +213,4 @@
 14	smíš	smět	VERB	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
 15	krvácet	krvácet	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	14	xcomp	_	SpaceAfter=No
 16	!	!	PUNCT	Z:-------------	_	3	punct	_	_
-
 
