@@ -6,10 +6,6 @@ UD_Czech-Poetry contains random samples of Czech 19th-century poetry from the Co
 
 The treebank consists of 29 randomly selected poems from the  Corpus of Czech Verse parsed with UDPipe 2 (trained on UD Czech-PDT 2.11) and manually corrected to comply with the UD release of the FicTree treebank.
 
-~~~ sdparse
-She looks very beautiful
-acomp(looks, beautiful)
-~~~
 
 # Acknowledgments
 
