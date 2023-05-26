@@ -1,22 +1,21 @@
 # Summary
 
-Czech Poetry from the 19th century.
-
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD_Czech-Poetry contains random samples of Czech 19th-century poetry from the Corpus of Czech Verse parsed with UDPipe2 (trained on UD Czech-PDT 2.11) and manually corrected. 
 
 # Introduction
 
-Random samples of Czech 19th-century poetry parsed with UDPipe 2 (trained on UD Czech-PDT 2.11) and manually corrected.
-
+The treebank consists of 29 randomly selected poems from the  Corpus of Czech Verse parsed with UDPipe 2 (trained on UD Czech-PDT 2.11) and manually corrected to comply with the UD release of the FicTree treebank.
 
 # Acknowledgments
 
-...
+This work was supported by the Czech Science Foundation grant No. 23-07727S, *European Poetry: Distant Reading*. 
+This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project LM2023062; formerly LM2010013, LM2015071, LM2018101, supported by the Czech Ministry of Education, Sports and Youth under the programme LM of "Large Infrastructures". 
 
 ## References
 
-* (citation)
+* **Tomáš Jelínek** / **Daniel Zeman** (2022): _UD_Czech-FicTree_ (v2.10) [https://github.com/UniversalDependencies/UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree) .
+* **Jelínek, Tomáš** (2017): _FicTree: A Manually Annotated Treebank of Czech Fiction_. in: _ITAT_ (= CEUR Workshop Proceedings). CEUR-WS.org. 181–185. (= CEUR Workshop Proceedings).
+* **Plecháč, Petr** / **Kolár, Robert** (2015): "The corpus of Czech verse", in: _Studia metrica et poetica_ 2 (1): 107–118.
 
 
 # Changelog
@@ -31,11 +30,11 @@ Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: poetry
-Lemmas: manual native
-UPOS: manual native
-XPOS: manual native
-Features: manual native
-Relations: manual native
+Lemmas: manual
+UPOS: manual
+XPOS: automatic
+Features: manual
+Relations: manual
 Contributors: Cinková, Silvie
 Contributing: here
 Contact: cinkova@ufal.mff.cuni.cz
