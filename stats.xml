@@ -32,7 +32,7 @@
     <tag name="VERB">743</tag><!-- jít, chtít, mít, dát, vědět, letět, moci, vidět, zdát, stát -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="77">
+  <feats unique="76">
     <feat name="AdpType" value="Prep" upos="ADP">509</feat><!-- v, na, z, k, s, nad, do, pro, o, za -->
     <feat name="AdpType" value="Voc" upos="ADP">34</feat><!-- ve, ku, ze, přede, se, ke, nade, pode -->
     <feat name="Animacy" value="Anim" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">349</feat><!-- boha, bože, bůh, člověk, bohy, kdo, mu, papa, ti, poznali -->
@@ -94,7 +94,6 @@
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">101</feat><!-- jež, kde, jenž, co, jak, níž, jimž, která, které, Kdež -->
     <feat name="PronType" value="Tot" upos="ADV,DET,PRON">54</feat><!-- vždy, každý, vše, všechny, všem, vším, každou, všady, všech, všechna -->
     <feat name="Reflex" value="Yes" upos="DET,PRON">185</feat><!-- se, si, své, tvé, sobě, svých, svou, svůj, svoje, svého -->
-    <feat name="Style" value="Arch" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">187</feat><!-- jest, jej, jich, ni, v, by, s, zář, Kdež, bijem -->
     <feat name="Style" value="Coll" upos="VERB">15</feat><!-- balancujem, Tejrá, chcem, hnět’, kvet’, odkvet’, stáh’, svrz’, sáh, vsed -->
     <feat name="Style" value="Expr" upos="ADJ">2</feat><!-- přeubohý -->
     <feat name="Style" value="Rare" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PROPN,SCONJ,VERB">63</feat><!-- s, leta, přec, stkví, v, Lůnou, Perversních, bezemračném, blyskla, chtí -->
