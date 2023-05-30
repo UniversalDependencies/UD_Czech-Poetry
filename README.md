@@ -1,6 +1,6 @@
 # Summary
 
-UD_Czech-Poetry contains random samples of Czech 19th-century poetry from the Corpus of Czech Verse parsed with UDPipe2 (trained on UD Czech-PDT 2.11) and manually corrected. 
+UD_Czech-Poetry contains random samples of Czech 19th-century poetry from the Corpus of Czech Verse parsed with UDPipe2 (trained on UD Czech-PDT 2.11) and manually corrected.
 
 # Introduction
 
@@ -9,8 +9,8 @@ The treebank consists of 29 randomly selected poems from the  Corpus of Czech Ve
 
 # Acknowledgments
 
-This work was supported by the Czech Science Foundation grant No. 23-07727S, *European Poetry: Distant Reading*. 
-This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project LM2023062; formerly LM2010013, LM2015071, LM2018101, supported by the Czech Ministry of Education, Sports and Youth under the programme LM of "Large Infrastructures". 
+This work was supported by the Czech Science Foundation grant No. 23-07727S, *European Poetry: Distant Reading*.
+This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project LM2023062; formerly LM2010013, LM2015071, LM2018101, supported by the Czech Ministry of Education, Sports and Youth under the programme LM of "Large Infrastructures".
 
 ## References
 
@@ -31,11 +31,11 @@ Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: poetry
-Lemmas: manual
-UPOS: manual
+Lemmas: manual native
+UPOS: manual native
 XPOS: automatic
-Features: manual
-Relations: manual
+Features: manual native
+Relations: manual native
 Contributors: Cinková, Silvie
 Contributing: here
 Contact: cinkova@ufal.mff.cuni.cz
