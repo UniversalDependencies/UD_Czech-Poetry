@@ -37,7 +37,7 @@
     <feat name="AdpType" value="Voc" upos="ADP">34</feat><!-- ve, ku, ze, přede, se, ke, nade, pode -->
     <feat name="Animacy" value="Anim" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">349</feat><!-- boha, bože, bůh, člověk, bohy, kdo, mu, papa, ti, poznali -->
     <feat name="Animacy" value="Inan" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">734</feat><!-- co, den, svět, jež, květ, oheň, sen, život, celý, dub -->
-    <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,VERB">289</feat><!-- hledá, čeká, duje, klesá, stát, Plyň, balancujem, cítil, dává, kmital -->
+    <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,SCONJ,VERB">424</feat><!-- je, by, jsem, jste, jest, jsi, byl, jsou, budeš, bylo -->
     <feat name="Aspect" value="Perf" upos="ADJ,VERB">180</feat><!-- poznali, padne, Rozhučela, povylétla, prosvital, říci, Nauč, Oněmlé, Podťata, Proměníš -->
     <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN">815</feat><!-- se, v, na, pro, to, tě, co, své, je, ji -->
     <feat name="Case" value="Dat" upos="ADJ,ADP,DET,NOUN,PRON,PROPN">233</feat><!-- k, mi, si, ti, tobě, mu, jí, ku, sobě, těm -->
