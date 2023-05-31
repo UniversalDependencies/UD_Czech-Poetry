@@ -105,7 +105,7 @@
 
 # sent_id = 0591-0001-0002-0000-0002-0003_6
 # text = Můj Armand slouchal, potom za hovoru jsem cítila však, že stát nechce k dvoru, že služba taká není v jeho chuti a vím, že už ho nikdo nepřinutí, ba, zdá se, že svým srdcem cele patří k těm šlechticům, již s národem se bratří, či, jak dí papa, „čiší ideami, jež světla pekel sila mezi námi;“ tím papa jistě Diderota míní a Voltaira a Rousseaua a jak jiní ti jmenují se – ovšem podotýkám, že Armand řečí nenarazil nikam, jen já tak vycítila, papa neví – nač také vzbouzet marně jeho hněvy?
-1	Můj	můj	DET	PSYS1-S1-------	Case=Nom|Gender=Masc|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+1	Můj	můj	DET	PSYS1-S1-------	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	Armand	Armand	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	3	nsubj	_	_
 3	slouchal	naslouchat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Style=Arch|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	9	punct	_	_
@@ -234,7 +234,7 @@
 13	nadějí	naděje	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
 14	a	a	CCONJ	J^-------------	_	15	cc	_	_
 15	vírou	víra	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	13	conj	_	_
-16	mojí	můj	DET	PSFS7-S1------1	Case=Ins|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+16	mojí	můj	DET	PSFS7-S1------1	Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
 17	a	a	CCONJ	J^-------------	_	20	cc	_	_
 18	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	nsubj	_	_
 19	snad	snad	ADV	Db-------------	_	20	advmod	_	_
@@ -267,7 +267,7 @@
 4	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 5	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
 6	štěstí	štěstí	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	10	nsubj:pass	_	_
-7	naše	můj	DET	PSHS1-P1-------	Case=Nom|Gender=Neut|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+7	naše	můj	DET	PSHS1-P1-------	Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 8	buď	být	AUX	Vi-S---2--A----	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	10	cop	_	_
 9	Ti	ty	DET	PH-S3--2-------	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	10	obl:arg	_	_
 10	odevzdáno	odevzdaný	ADJ	VsNS---XX-AP---	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No

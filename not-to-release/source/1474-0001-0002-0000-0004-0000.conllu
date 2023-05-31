@@ -182,7 +182,7 @@
 19	souvrati	souvrať	NOUN	NNFS2-----A---1	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
 20	a	a	CCONJ	J^-------------	_	26	cc	_	_
 21	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	_	_
-22	jejích	jeho	DET	PSXP6FS3-------	Case=Loc|Gender[psor]=Fem|Number[psor]=Sing|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
+22	jejích	jeho	DET	PSXP6FS3-------	Case=Loc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	travinách	travina	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	26	obl	_	_
 24	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	26	expl:pv	_	_
 25	rosou	rosa	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	26	obl	_	_

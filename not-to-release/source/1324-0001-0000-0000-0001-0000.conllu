@@ -32,7 +32,7 @@
 4	nevinňátko	neviňátko	NOUN	NNFS5-----A----	Case=Voc|Gender=Neut|Number=Sing|Polarity=Neg|Style=Arch	1	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	9	punct	_	_
 6	Že	že	SCONJ	J,-------------	_	9	mark	_	_
-7	tvůj	tvůj	DET	PSYS1-S1-------	Case=Nom|Gender=Masc|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+7	tvůj	tvůj	DET	PSYS1-S1-------	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
 8	outlý	útlý	ADJ	AAMS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Style=Arch	10	nsubj	_	_
 9	zvadnul	zvadnout	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
 10	květ	květ	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	_	SpaceAfter=No
@@ -54,7 +54,7 @@
 
 # sent_id = 1324-0001-0000-0000-0001-0000_5
 # text = Náš svět*) rodí pouhou marnost, Plodí mnohotvářnou lest; Jeho třpytícý se švarnost V skutku jenom zhouba jest.
-1	Náš	můj	DET	PSYS1-P1-------	Case=Nom|Gender=Masc|Number[psor]=Plur|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+1	Náš	můj	DET	PSYS1-P1-------	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	svět	svět	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	_	SpaceAfter=No
 3	*	*	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
 4	)	)	PUNCT	Z:-------------	_	2	punct	_	_

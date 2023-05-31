@@ -37,7 +37,7 @@
 5	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	_
 6	blízku	blízko	NOUN	NNIS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Style=Arch	3	obl	_	_
 7	duši	duše	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
-8	mou	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	SpaceAfter=No
+8	mou	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	SpaceAfter=No
 9	?	?	PUNCT	Z:-------------	_	3	punct	_	_
 
 # sent_id = 1191-0001-0003-0000-0002-0000_4

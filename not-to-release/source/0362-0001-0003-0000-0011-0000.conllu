@@ -319,7 +319,7 @@
 20	tebe	ty	PRON	PP-S4--2-------	Case=Acc|Number=Sing|Person=2|PronType=Prs	19	obj	_	SpaceAfter=No
 21	:	:	PUNCT	Z:-------------	_	22	punct	_	_
 22	rozpěň	rozpěnit	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	19	parataxis	_	_
-23	moji	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number[psor]=Sing|Number=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+23	moji	můj	DET	PSFS4-S1------1	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
 24	krev	krev	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	22	obj	_	SpaceAfter=No
 25	,	,	PUNCT	Z:-------------	_	26	punct	_	_
 26	Nauč	naučit	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	22	conj	_	_
