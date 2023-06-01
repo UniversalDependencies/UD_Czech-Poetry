@@ -128,7 +128,7 @@
 16	mou	můj	DET	PSFS7-S1------1	Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
 17	horkou	horký	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	18	amod	_	_
 18	skrání	skráň	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	19	obl	_	_
-19	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+19	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 20	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	19	obl:arg	_	SpaceAfter=No
 21	,	,	PUNCT	Z:-------------	_	25	punct	_	_
 22	jak	jak	ADV	Db-------------	PronType=Int	25	advmod	_	_

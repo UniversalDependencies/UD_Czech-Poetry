@@ -11,7 +11,7 @@
 8	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	_	_
 9	tulíme	tulit	VERB	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	a	a	CCONJ	J^-------------	_	11	cc	_	_
-11	tisknem	tisknout	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+11	tisknem	tisknout	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
 12	dlaň	dlaň	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	11	obj	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
 14	vždy	vždy	ADV	Db-------------	PronType=Tot	15	advmod	_	_
@@ -28,20 +28,20 @@
 
 # sent_id = 0078-0001-0000-0000-0028-0000_2
 # text = Bijem se vpravo, bijem vlevo, až jiskří našich mečů zář: pro rodné slovo, mluvu matky, pro víru, pravdu, pro oltář.
-1	Bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
-3	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc|Style=Arch	4	case	_	SpaceAfter=No
-4	pravo	pravo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Style=Arch	1	obl	_	SpaceAfter=No
+3	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc	4	case	_	SpaceAfter=No
+4	pravo	pravo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
-6	bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-7	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc|Style=Arch	8	case	_	SpaceAfter=No
-8	levo	levo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Style=Arch	6	obl	_	SpaceAfter=No
+6	bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc	8	case	_	SpaceAfter=No
+8	levo	levo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 10	až	až	SCONJ	J,-------------	_	11	mark	_	_
 11	jiskří	jiskřit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
 12	našich	můj	DET	PSXP2-P1-------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
 13	mečů	meč	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	11	obl:arg	_	_
-14	zář	zář	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch	11	nsubj	_	SpaceAfter=No
+14	zář	zář	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	11	nsubj	_	SpaceAfter=No
 15	:	:	PUNCT	Z:-------------	_	18	punct	_	_
 16	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	18	case	_	_
 17	rodné	rodný	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	18	amod	_	_
@@ -127,7 +127,7 @@
 # text = Zde na pozemí maják strmí náš proti vlnám cizoty – než bychom pídi půdy dali, rač dáme svoje životy.
 1	Zde	zde	ADV	Db-------------	PronType=Dem	5	advmod	_	_
 2	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
-3	pozemí	pozemí	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|Style=Arch	5	obl	_	_
+3	pozemí	pozemí	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	_	_
 4	maják	maják	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	_	_
 5	strmí	strmět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	náš	můj	DET	PSYS1-P1-------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
@@ -137,7 +137,7 @@
 10	–	–	PUNCT	Z:-------------	_	18	punct	_	_
 11	než	než	SCONJ	J,-------------	_	15	mark	_	_
 12	bychom	být	AUX	Vc-P---1-------	Aspect=Imp|Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	15	aux	_	_
-13	pídi	píd	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|Style=Arch	15	obj	_	_
+13	pídi	píd	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	15	obj	_	_
 14	půdy	půda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	13	nmod	_	_
 15	dali	dát	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	SpaceAfter=No
 16	,	,	PUNCT	Z:-------------	_	15	punct	_	_

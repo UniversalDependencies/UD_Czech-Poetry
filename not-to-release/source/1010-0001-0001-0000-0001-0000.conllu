@@ -31,7 +31,7 @@
 28	tajemnou	tajemný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	26	conj	_	_
 29	–	–	PUNCT	Z:-------------	_	37	punct	_	_
 30	a	a	CCONJ	J^-------------	_	37	cc	_	_
-31	co	zatímco	SCONJ	PQ--1----------	Style=Arch	35	mark	_	_
+31	co	zatímco	SCONJ	PQ--1----------	_	35	mark	_	_
 32	tak	tak	ADV	Db-------------	PronType=Dem	33	advmod:emph	_	_
 33	různobarvý	různobarvý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	35	advcl	_	_
 34	temně	temně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	35	advmod	_	_
@@ -56,7 +56,7 @@
 5	kouzelnice	kouzelnice	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	_	_
 6	Noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	flat	_	_
 7	začíná	začínat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	tkáti	tkát	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|Style=Arch|VerbForm=Inf	7	xcomp	_	_
+8	tkáti	tkát	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|VerbForm=Inf	7	xcomp	_	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	_	_
 10	myšlének	myšlenka	NOUN	NNIS4-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	11	nmod	_	_
 11	stavu	stav	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	_	SpaceAfter=No
@@ -137,17 +137,17 @@
 5	poesie	poesie	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	7	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
 7	musím	muset	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	píti	pít	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|Style=Arch|VerbForm=Inf	7	xcomp	_	SpaceAfter=No
+8	píti	pít	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|VerbForm=Inf	7	xcomp	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 # sent_id = 1010-0001-0001-0000-0001-0000_5
 # text = Kde sen jest, kde jest žití?
 1	Kde	kde	ADV	Db-------------	PronType=Int	3	advmod	_	_
 2	sen	sen	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	_	_
-3	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 5	kde	kde	ADV	Db-------------	PronType=Int	6	advmod	_	_
-6	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 7	žití	žití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nsubj	_	SpaceAfter=No
 8	?	?	PUNCT	Z:-------------	_	3	punct	_	_
 

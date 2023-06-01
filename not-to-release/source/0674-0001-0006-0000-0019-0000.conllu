@@ -39,7 +39,7 @@
 5	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 6	Poslouchaje	poslouchat	VERB	VeYS------A----	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act	10	xcomp	_	_
 7	na	na	ADP	TT-------------	AdpType=Prep|Case=Acc	8	case	_	_
-8	něj	on	PRON	TT-------------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PrepCase=Pre|PronType=Prs|Style=Arch	10	obl:arg	_	_
+8	něj	on	PRON	TT-------------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PrepCase=Pre|PronType=Prs	10	obl:arg	_	_
 9	čeládka	čeládka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	nsubj	_	_
 10	hledí	hledět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No
 11	;	;	PUNCT	Z:-------------	_	4	punct	_	_
@@ -55,7 +55,7 @@
 7	cítil	cítit	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	SpaceAfter=No
 8	:	:	PUNCT	Z:-------------	_	12	punct	_	_
 9	„	"	PUNCT	Z:-------------	_	12	punct	_	SpaceAfter=No
-10	Hoiho	hoiho	INTJ	II-------------	Style=Arch	12	vocative	_	SpaceAfter=No
+10	Hoiho	hoiho	INTJ	II-------------	_	12	vocative	_	SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	12	punct	_	_
 12	slyšte	slyšet	VERB	Vi-P---2--A----	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
 13	!	!	PUNCT	Z:-------------	_	1	punct	_	_
@@ -193,7 +193,7 @@
 33	,	,	PUNCT	Z:-------------	_	36	punct	_	_
 34	Nebo	nebo	CCONJ	J^-------------	_	36	cc	_	_
 35	čas	čas	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	36	nsubj	_	_
-36	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	26	conj	_	SpaceAfter=No
+36	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	26	conj	_	SpaceAfter=No
 37	,	,	PUNCT	Z:-------------	_	42	punct	_	_
 38	kde	kde	ADV	Db-------------	PronType=Rel	42	advmod	_	_
 39	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	42	expl:pv	_	_

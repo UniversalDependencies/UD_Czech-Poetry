@@ -55,7 +55,7 @@
 # sent_id = 0083-0001-0001-0000-0015-0000_4
 # text = Jen střída dní, povzletů, pádů, trápení.
 1	Jen	jen	PART	TT-------------	_	2	advmod:emph	_	_
-2	střída	střída	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch	0	root	_	_
+2	střída	střída	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 3	dní	den	NOUN	NNIP2-----A---1	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 5	povzletů	povzlet	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	3	conj	_	SpaceAfter=No
@@ -162,14 +162,14 @@
 26	zem	země	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	25	nsubj	_	_
 27	–	–	PUNCT	Z:-------------	_	37	punct	_	_
 28	kde	kde	ADV	Db-------------	PronType=Rel	37	advmod	_	_
-29	s	s	ADP	RR--7----------	AdpType=Prep|Case=Gen|Style=Arch	30	case	_	_
+29	s	s	ADP	RR--7----------	AdpType=Prep|Case=Gen	30	case	_	_
 30	výše	výše	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	37	obl	_	_
 31	slunná	slunný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	37	xcomp	_	SpaceAfter=No
 32	,	,	PUNCT	Z:-------------	_	33	punct	_	_
 33	zářivá	zářivý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	31	conj	_	_
 34	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	37	expl:pv	_	_
 35	Tvoje	tvůj	DET	PSZS2FS3-------	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	36	det	_	_
-36	tváře	tvář	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch	37	obl:arg	_	_
+36	tváře	tvář	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	37	obl:arg	_	_
 37	usmívá	usmívat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	SpaceAfter=No
 38	,	,	PUNCT	Z:-------------	_	40	punct	_	_
 39	kde	kde	ADV	Db-------------	PronType=Rel	40	advmod	_	_
@@ -217,7 +217,7 @@
 11	a	a	CCONJ	J^-------------	_	13	cc	_	_
 12	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	13	case	_	_
 13	dálce	dálka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	conj	_	_
-14	tmy	tma	NOUN	NNFS2-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Style=Arch	13	orphan	_	SpaceAfter=No
+14	tmy	tma	NOUN	NNFS2-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	13	orphan	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 # sent_id = 0083-0001-0001-0000-0015-0000_12

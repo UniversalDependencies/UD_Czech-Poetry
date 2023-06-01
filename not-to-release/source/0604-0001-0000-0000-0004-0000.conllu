@@ -135,7 +135,7 @@
 96	svoji	svůj	DET	P8FS4----------	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	97	det	_	_
 97	dumu	duma	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	93	obj	_	_
 98	a	a	CCONJ	J^-------------	_	100	cc	_	_
-99	žalné	žalný	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Style=Arch	100	amod	_	_
+99	žalné	žalný	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	100	amod	_	_
 100	stesky	stesk	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	97	conj	_	SpaceAfter=No
 101	,	,	PUNCT	Z:-------------	_	103	punct	_	_
 102	elegické	elegický	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	103	amod	_	_

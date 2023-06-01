@@ -3,7 +3,7 @@
 # text = V rudých kdys vlasů záplavě jsem viděl světici.
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	SpacesBefore=\s
 2	rudých	rudý	ADJ	AAIP6----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	4	dep	_	_
-3	kdys	kdysi	ADV	Db-------------	Style=Arch	7	advmod	_	_
+3	kdys	kdysi	ADV	Db-------------	_	7	advmod	_	_
 4	vlasů	vlas	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	nmod	_	_
 5	záplavě	záplava	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
 6	jsem	být	AUX	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
@@ -22,7 +22,7 @@
 1	Zsinalá	zsinalý	ADJ	AAFS1----1A----	Case=Voc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	xcomp	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
-4	truchlé	truchlivý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch	5	amod	_	_
+4	truchlé	truchlivý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	5	amod	_	_
 5	póze	póza	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
 6	kajícnice	kajícnice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	10	punct	_	_
@@ -202,7 +202,7 @@
 12	snese	snést	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
 13	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	14	case	_	_
 14	město	město	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	12	obl	_	_
-15	Oněmlé	oněmělý	ADJ	AANS4----1A----	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Style=Arch|Tense=Past|VerbForm=Part|Voice=Act	14	amod	_	_
+15	Oněmlé	oněmělý	ADJ	AANS4----1A----	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	14	amod	_	_
 16	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	17	case	_	_
 17	dusnu	dusno	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	12	obl	_	SpaceAfter=No
 18	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
@@ -212,7 +212,7 @@
 # sent_id = 0362-0001-0003-0000-0011-0000_12
 # text = V starobných ambitech, kde ztuhlá světic ctnost V škrobených límcích španělských se vztyčuje, Kde marně Šebestián sličný Kypící nahotu, Drážděné šípem genitálie ukazuje, Aby sváděl ctnostně odvrácené zraky, Ty potměšilou vlnu ňader, Tak měkce tajících, teď svůdně rozléváš, Své tělo zase obnažuješ, tolika tknuté milenci, A dráždíš pletí tolika ústy zlíbanou A klínem, tolika vášněmi rozrývaným, A očima samice, očima smilnýma.
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
-2	starobných	starobný	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Style=Arch	3	amod	_	_
+2	starobných	starobný	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	3	amod	_	_
 3	ambitech	ambit	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	46	obl	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	14	punct	_	_
 5	kde	kde	ADV	Db-------------	PronType=Rel	14	advmod	_	_
@@ -305,7 +305,7 @@
 6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
 7	Zsinalá	zsinalý	ADJ	AAFS1----1A----	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	1	amod	_	_
 8	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
-9	truchlé	truchlivý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch	10	amod	_	_
+9	truchlé	truchlivý	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
 10	póze	póza	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
 11	kajícnice	kajícnice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	10	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	Z:-------------	_	1	punct	_	_
@@ -379,7 +379,7 @@
 10	vešla	vejít	VERB	VpQW---XR-AA---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 11	jsi	být	AUX	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
 12	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	13	case	_	_
-13	zář	záře	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch	10	obl	_	_
+13	zář	záře	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
 14	nebeskou	nebeský	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	SpaceAfter=No
 15	!	!	PUNCT	Z:-------------	_	10	punct	_	_
 

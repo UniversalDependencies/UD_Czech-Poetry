@@ -20,7 +20,7 @@
 17	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	18	case	_	_
 18	nimž	jenž	PRON	P9XP3----------	Case=Dat|Number=Plur|PrepCase=Pre|PronType=Rel	20	obl	_	_
 19	možno	možný	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	14	conj	_	_
-20	vzpínati	vzpínat	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|Style=Arch|VerbForm=Inf	19	csubj	_	_
+20	vzpínati	vzpínat	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|VerbForm=Inf	19	csubj	_	_
 21	jen	jen	PART	TT-------------	_	22	advmod:emph	_	_
 22	ruce	ruka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	20	obj	_	_
 23	vztažené	vztažený	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	22	amod	_	SpaceAfter=No
@@ -48,7 +48,7 @@
 6	vítr	vítr	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	7	nsubj	_	_
 7	pohání	pohánět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	11	punct	_	_
-9	jich	jeho	DET	PPXP2--3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Style=Arch	12	det	_	_
+9	jich	jeho	DET	PPXP2--3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 10	vzdušný	vzdušný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	12	amod	_	_
 11	řídí	řídit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
 12	let	let	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	_	SpaceAfter=No
@@ -72,7 +72,7 @@
 30	,	,	PUNCT	Z:-------------	_	31	punct	_	_
 31	vleče	vléci	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	29	conj	_	_
 32	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	31	expl:pv	_	_
-33	jich	jeho	DET	PPXP2--3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Style=Arch	35	det	_	_
+33	jich	jeho	DET	PPXP2--3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
 34	obrovitý	obrovitý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	35	amod	_	_
 35	stín	stín	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	31	nsubj	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	2	punct	_	_
@@ -103,7 +103,7 @@
 22	okem	oko	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	27	obl	_	_
 23	hořícím	hořící	ADJ	AGNS7-----A----	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
 24	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	23	expl:pv	_	_
-25	v	v	ADP	RR--6----------	AdpType=Prep|Case=Acc|Style=Arch	26	case	_	_
+25	v	v	ADP	RR--6----------	AdpType=Prep|Case=Acc	26	case	_	_
 26	duši	duše	NOUN	NNFS6-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	27	obl	_	_
 27	dívaly	dívat	VERB	VpTP---XR-AA---	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	_
 28	–	–	PUNCT	Z:-------------	_	35	punct	_	_
@@ -118,7 +118,7 @@
 37	než	než	SCONJ	J,-------------	_	38	mark	_	_
 38	ptáče	ptáče	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	35	advcl	_	_
 39	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	40	case	_	_
-40	sněti	sněť	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch	38	nmod	_	SpaceAfter=No
+40	sněti	sněť	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	38	nmod	_	SpaceAfter=No
 41	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 # sent_id = 1474-0001-0002-0000-0004-0000_4
@@ -127,7 +127,7 @@
 2	ještě	ještě	ADV	Db-------------	_	3	advmod	_	_
 3	zazpívá	zazpívat	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
-5	zříš	zřít	VERB	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+5	zříš	zřít	VERB	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 6	barvu	barva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	5	obj	_	_
 7	perutí	peruť	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	nmod	_	_
 8	–	–	PUNCT	Z:-------------	_	13	punct	_	_
@@ -178,7 +178,7 @@
 15	tesknící	tesknící	ADJ	AGFS3-----A----	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	16	amod	_	_
 16	duše	duše	NOUN	NNFS3-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	19	nmod	_	_
 17	tvé	tvůj	DET	P8FS2---------1	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	_
-18	vypráhlé	vyprahlý	ADJ	AAFS2----1A----	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Style=Arch|Tense=Past|VerbForm=Part	19	amod	_	_
+18	vypráhlé	vyprahlý	ADJ	AAFS2----1A----	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	19	amod	_	_
 19	souvrati	souvrať	NOUN	NNFS2-----A---1	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
 20	a	a	CCONJ	J^-------------	_	26	cc	_	_
 21	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	_	_
