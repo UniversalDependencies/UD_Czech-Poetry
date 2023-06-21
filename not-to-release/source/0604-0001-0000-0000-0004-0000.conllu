@@ -7,7 +7,7 @@
 4	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 5	stkána	stkaný	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 6	:	:	PUNCT	Z:-------------	_	12	punct	_	_
-7	Dvé	dvojí	NUM	ClXP2----------	Case=Nom|Number=Plur|NumForm=Word|NumType=Card|NumValue=2	12	nummod	_	_
+7	Dvé	dvojí	NUM	ClXP2----------	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	_
 8	disonančních	disonanční	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	_	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 10	rušících	rušící	ADJ	AGIP2-----A----	Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	8	conj	_	_
@@ -206,7 +206,7 @@
 14	Východ	východ	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	_
 15	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	16	case	_	_
 16	chybami	chyba	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	2	obl	_	_
-17	obou	oba	NUM	ClXP2----------	Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=2	16	nummod	_	SpaceAfter=No
+17	obou	oba	NUM	ClXP2----------	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	16	nummod	_	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	22	punct	_	_
 19	ne	ne	PART	TT-------------	_	22	advmod:emph	_	_
 20	však	však	CCONJ	J^-------------	_	22	cc	_	_

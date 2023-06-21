@@ -174,7 +174,7 @@
 # sent_id = 0130-0001-0002-0000-0031-0000_9
 # text = Leč jeden chybí.
 1	Leč	leč	CCONJ	J,-------------	_	3	discourse	_	_
-2	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=3	3	nsubj	_	_
+2	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	_	_
 3	chybí	chybět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 

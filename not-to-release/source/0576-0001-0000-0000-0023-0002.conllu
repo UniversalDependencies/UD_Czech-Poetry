@@ -112,7 +112,7 @@
 13	zmínil	zmínit	VERB	VpYS---XR-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	parataxis	_	SpaceAfter=No
 14	,	,	PUNCT	Z:-------------	_	19	punct	_	_
 15	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	17	case	_	_
-16	dva	dva	NUM	ClYP4----------	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|NumValue=2	17	nummod	_	_
+16	dva	dva	NUM	ClYP4----------	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	17	nummod	_	_
 17	dny	den	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	19	obl:arg	_	_
 18	lhůty	lhůta	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	17	nmod	_	_
 19	prosil	prosit	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	SpaceAfter=No

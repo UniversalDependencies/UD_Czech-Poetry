@@ -238,7 +238,7 @@
 5	vedou	vést	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	12	punct	_	_
 7	Brzo	brzy	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	12	advmod	_	_
-8	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1	12	nsubj	_	_
+8	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	12	nsubj	_	_
 9	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
 10	druhém	druhý	ADJ	CrIS6----------	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord	12	obl	_	_
 11	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	12	expl:pass	_	_

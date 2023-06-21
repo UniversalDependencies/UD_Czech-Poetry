@@ -22,7 +22,7 @@
 10	mhou	mlha	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	_	_
 11	a	a	CCONJ	J^-------------	_	15	cc	_	_
 12	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	_	_
-13	jednom	jeden	NUM	ClZS6----------	Case=Loc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1	15	nummod	_	_
+13	jednom	jeden	NUM	ClZS6----------	Case=Loc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	15	nummod	_	_
 14	tkví	tkvět	VERB	AANS6----1A----	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 15	místě	místo	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	14	obl	_	_
 16	zádumčivé	zádumčivý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	14	advmod	_	SpaceAfter=No
@@ -154,7 +154,7 @@
 5	vymrštila	vymrštit	VERB	VpQW---XR-AA---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 6	řasy	řasa	NOUN	NNIP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	5	obj	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-8	dvé	dvé	NUM	AANS1----1A----	Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=2	9	nummod:gov	_	_
+8	dvé	dvé	NUM	AANS1----1A----	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	9	nummod:gov	_	_
 9	sluncí	slunce	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	10	nsubj	_	_
 10	svitlo	svitnout	VERB	VpNS---XR-AA--1	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 11	jako	jako	SCONJ	J,-------------	_	12	mark	_	_
