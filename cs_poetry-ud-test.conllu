@@ -343,18 +343,19 @@
 15	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
 # sent_id = 0078-0001-0000-0000-0028-0000_5
-# text = v píli, snaze neúmorné Tvá na severu stojí stráž!
-1	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	_
-2	píli	píle	NOUN	pred	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	_	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	4	punct	_	_
-4	snaze	snaha	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
-5	neúmorné	úmorný	ADJ	AAFS6----1N----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg	4	amod	_	_
-6	Tvá	tvůj	DET	VB-S---3P-AA---	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	obj	_	_
-7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	_	_
-8	severu	sever	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	_
-9	stojí	stát	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	stráž	stráž	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	9	nsubj	_	SpaceAfter=No
-11	!	!	PUNCT	Z:-------------	_	9	punct	_	_
+# text = Zde v píli, snaze neúmorné Tvá na severu stojí stráž!
+1	Zde	zde	ADV	Db-------------	PronType=Dem	10	advmod	_	_
+2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
+3	píli	píle	NOUN	pred	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+5	snaze	snaha	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	3	conj	_	_
+6	neúmorné	úmorný	ADJ	AAFS6----1N----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg	5	amod	_	_
+7	Tvá	tvůj	DET	VB-S---3P-AA---	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	11	obj	_	_
+8	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	_
+9	severu	sever	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	_	_
+10	stojí	stát	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	stráž	stráž	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	nsubj	_	SpaceAfter=No
+12	!	!	PUNCT	Z:-------------	_	10	punct	_	_
 
 # sent_id = 0078-0001-0000-0000-0028-0000_6
 # text = Zde na pozemí maják strmí náš proti vlnám cizoty – než bychom pídi půdy dali, rač dáme svoje životy.
@@ -642,8 +643,9 @@
 
 # newdoc id = 0130-0001-0002-0000-0031-0000
 # sent_id = 0130-0001-0002-0000-0031-0000_1
-# text = Proč musil jsi umřít v onom soumraku, jakou to vůlí zlomena tvá vůle, že jsi odešel v den strašných přízraků, kdy příští bylo mnohem dál než Thule?
+# text = Proč musil’s umřít v onom soumraku, jakou to vůlí zlomena tvá vůle, že’s odešel v den strašných přízraků, kdy příští bylo mnohem dál než Thule?
 1	Proč	proč	ADV	Db-------------	PronType=Int	2	advmod	_	SpacesBefore=\s
+2-3	musil’s	_	_	_	_	_	_	_	_
 2	musil	muset	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	jsi	být	AUX	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	aux	_	_
 4	umřít	umřít	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	2	xcomp	_	_
@@ -658,6 +660,7 @@
 13	tvá	tvůj	DET	PSFS1-S1------1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	_
 14	vůle	vůle	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	12	nsubj:pass	_	SpaceAfter=No
 15	,	,	PUNCT	Z:-------------	_	18	punct	_	_
+16-17	že’s	_	_	_	_	_	_	_	_
 16	že	že	SCONJ	NNMS1-----A----	_	18	mark	_	_
 17	jsi	být	AUX	NNMS1-----A----	_	18	aux	_	_
 18	odešel	odejít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	_
@@ -676,12 +679,13 @@
 31	?	?	PUNCT	Z:-------------	_	2	punct	_	_
 
 # sent_id = 0130-0001-0002-0000-0031-0000_2
-# text = A prapor, který by jsi si viset přál, vlát v triumfu den k slávě rodné země, proč nehlučně a teskně zapadal do noci, která svírala tvé plémě?
+# text = A prapor, který by si’s viset přál, vlát v triumfu den k slávě rodné země, proč nehlučně a teskně zapadal do noci, která svírala tvé plémě?
 1	A	a	CCONJ	J^-------------	_	24	discourse	_	_
 2	prapor	prapor	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	24	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	9	punct	_	_
 4	který	který	DET	P4IS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	9	obj	_	_
 5	by	být	AUX	Vc-------------	Aspect=Imp|Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	9	aux	_	_
+6-7	si’s	_	_	_	_	_	_	_	_
 6	jsi	být	AUX	P7-X3----------	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 7	si	si	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	obl:arg	_	_
 8	viset	viset	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	9	xcomp	_	_
@@ -3228,13 +3232,14 @@
 8	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 # sent_id = 0674-0001-0006-0000-0019-0000_4
-# text = Pocestný uprostřed síně sedí, Poslouchaje na něj čeládka hledí;
+# text = Pocestný uprostřed síně sedí, Poslouchaje naň čeládka hledí;
 1	Pocestný	pocestný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	_	_
 2	uprostřed	uprostřed	ADP	NNNP2-----A----	AdpType=Prep|Case=Gen	3	case	_	_
 3	síně	síň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
 4	sedí	sedět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 6	Poslouchaje	poslouchat	VERB	VeYS------A----	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act	10	xcomp	_	_
+7-8	naň	_	_	_	_	_	_	_	_
 7	na	na	ADP	TT-------------	AdpType=Prep|Case=Acc	8	case	_	_
 8	něj	on	PRON	TT-------------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PrepCase=Pre|PronType=Prs	10	obl:arg	_	_
 9	čeládka	čeládka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	nsubj	_	_
@@ -5890,10 +5895,11 @@
 14	?	?	PUNCT	Z:-------------	_	2	punct	_	_
 
 # sent_id = 1066-0001-0002-0000-0005-0000_7
-# text = Ó básníku, ty jsi roven jemu!
+# text = Ó básníku, tys roven jemu!
 1	Ó	ó	INTJ	II-------------	_	6	dep	_	_
 2	básníku	básník	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	6	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+4-5	tys	_	_	_	_	_	_	_	_
 4	ty	ty	PRON	Vi-S---2--A----	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 5	jsi	být	AUX	Vi-S---2--A----	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	6	aux	_	_
 6	roven	rovný	ADJ	ACYS------A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	0	root	_	_
@@ -5901,7 +5907,7 @@
 8	!	!	PUNCT	Z:-------------	_	6	punct	_	_
 
 # sent_id = 1066-0001-0002-0000-0005-0000_8
-# text = Jak on vyzýváš bohy v boj, na co toužíš nebes diademu svých ňader snoubit nepokoj?
+# text = Jak on vyzýváš bohy v boj, nač toužíš nebes diademu svých ňader snoubit nepokoj?
 1	Jak	jako	SCONJ	Db-------------	_	2	mark	_	_
 2	on	on	PRON	PPYS1--3-------	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	advcl	_	_
 3	vyzýváš	vyzývat	VERB	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5909,6 +5915,7 @@
 5	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	_	_
 6	boj	boj	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+8-9	nač	_	_	_	_	_	_	_	_
 8	na	na	ADP	Db-------------	_	9	case	_	_
 9	co	co	PRON	Db-------------	Animacy=Inan|Case=Acc|PronType=Int	10	obl	_	_
 10	toužíš	toužit	VERB	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
@@ -6780,7 +6787,7 @@
 36	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 # sent_id = 1474-0001-0002-0000-0004-0000_3
-# text = Ach, jak to dávno již, co tělem bývaly, co teplo cítil'jsi jejich měkkých objetí, co okem hořícím se v duši dívaly – teď, bože, teď jsou míň, než ptáče na sněti.
+# text = Ach, jak to dávno již, co tělem bývaly, co teplo cítil's jejich měkkých objetí, co okem hořícím se v duši dívaly – teď, bože, teď jsou míň, než ptáče na sněti.
 1	Ach	ach	INTJ	II-------------	_	5	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	jak	jak	ADV	Db-------------	PronType=Int	5	mark	_	_
@@ -6794,34 +6801,34 @@
 11	,	,	PUNCT	Z:-------------	_	14	punct	_	_
 12	co	co	SCONJ	PQ--1----------	_	14	mark	_	_
 13	teplo	teplo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	14	obj	_	_
-14	cítil	cítit	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	SpaceAfter=No
-15	'	'	PUNCT	Z:-------------	_	16	punct	_	SpaceAfter=No
-16	jsi	být	AUX	RR--2----------	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
-17	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
-18	měkkých	měkký	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	19	amod	_	_
-19	objetí	objetí	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Vnoun	13	nmod	_	SpaceAfter=No
-20	,	,	PUNCT	Z:-------------	_	27	punct	_	_
-21	co	co	SCONJ	PQ--4----------	_	27	mark	_	_
-22	okem	oko	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	27	obl	_	_
-23	hořícím	hořící	ADJ	AGNS7-----A----	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
-24	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	23	expl:pv	_	_
-25	v	v	ADP	RR--6----------	AdpType=Prep|Case=Acc	26	case	_	_
-26	duši	duše	NOUN	NNFS6-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	27	obl	_	_
-27	dívaly	dívat	VERB	VpTP---XR-AA---	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	_
-28	–	–	PUNCT	Z:-------------	_	35	punct	_	_
-29	teď	teď	ADV	Db-------------	PronType=Dem	35	advmod	_	SpaceAfter=No
-30	,	,	PUNCT	Z:-------------	_	35	punct	_	_
-31	bože	bůh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	35	vocative	_	SpaceAfter=No
-32	,	,	PUNCT	Z:-------------	_	35	punct	_	_
-33	teď	teď	ADV	Db-------------	PronType=Dem	35	advmod	_	_
-34	jsou	být	AUX	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	35	cop	_	_
-35	míň	málo	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	5	parataxis	_	SpaceAfter=No
-36	,	,	PUNCT	Z:-------------	_	38	punct	_	_
-37	než	než	SCONJ	J,-------------	_	38	mark	_	_
-38	ptáče	ptáče	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	35	advcl	_	_
-39	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	40	case	_	_
-40	sněti	sněť	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	38	nmod	_	SpaceAfter=No
-41	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+14-15	cítil's	_	_	_	_	_	_	_	_
+14	cítil	cítit	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	_
+15	jsi	být	AUX	RR--2----------	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
+16	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
+17	měkkých	měkký	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	18	amod	_	_
+18	objetí	objetí	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Vnoun	13	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	Z:-------------	_	26	punct	_	_
+20	co	co	SCONJ	PQ--4----------	_	26	mark	_	_
+21	okem	oko	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	26	obl	_	_
+22	hořícím	hořící	ADJ	AGNS7-----A----	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	21	amod	_	_
+23	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	22	expl:pv	_	_
+24	v	v	ADP	RR--6----------	AdpType=Prep|Case=Acc	25	case	_	_
+25	duši	duše	NOUN	NNFS6-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	26	obl	_	_
+26	dívaly	dívat	VERB	VpTP---XR-AA---	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	_
+27	–	–	PUNCT	Z:-------------	_	34	punct	_	_
+28	teď	teď	ADV	Db-------------	PronType=Dem	34	advmod	_	SpaceAfter=No
+29	,	,	PUNCT	Z:-------------	_	34	punct	_	_
+30	bože	bůh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	34	vocative	_	SpaceAfter=No
+31	,	,	PUNCT	Z:-------------	_	34	punct	_	_
+32	teď	teď	ADV	Db-------------	PronType=Dem	34	advmod	_	_
+33	jsou	být	AUX	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	_
+34	míň	málo	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	5	parataxis	_	SpaceAfter=No
+35	,	,	PUNCT	Z:-------------	_	37	punct	_	_
+36	než	než	SCONJ	J,-------------	_	37	mark	_	_
+37	ptáče	ptáče	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	34	advcl	_	_
+38	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	39	case	_	_
+39	sněti	sněť	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	37	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 # sent_id = 1474-0001-0002-0000-0004-0000_4
 # text = To ještě zazpívá, zříš barvu perutí – však tam jen mlhy jdou, tak tiché, mlčící, jimž nový dává tvar vždy větru dechnutí, jimž nikdo nevrátí rys žití do lící.
