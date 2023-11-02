@@ -64,7 +64,7 @@
 22	zemi	země	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	20	obl	_	SpaceAfter=No
 23	,	,	PUNCT	Z:-------------	_	27	punct	_	_
 24	tvé	tvůj	DET	P8FS2---------1	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	25	det	_	_
-25	duše	duše	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	27	nsubj	_	_
+25	duše	duše	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	27	nmod	_	_
 26	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	27	case	_	_
 27	pláni	pláň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	22	conj	_	_
 28	jen	jen	PART	TT-------------	_	29	advmod:emph	_	_

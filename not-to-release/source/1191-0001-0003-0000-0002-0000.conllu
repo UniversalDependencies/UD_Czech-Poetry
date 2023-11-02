@@ -57,8 +57,8 @@
 13	,	,	PUNCT	Z:-------------	_	19	punct	_	_
 14	jak	jak	ADV	Db-------------	PronType=Rel	19	mark	_	_
 15	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	16	case	_	_
-16	mdloby	mdloba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	17	dep	_	_
-17	návalu	nával	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	19	obl	_	_
+16	mdloby	mdloba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	17	nmod	_	_
+17	návalu	nával	NOUN	NNIS2-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	19	obl	_	_
 18	Ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	obj	_	_
 19	zastih’	zastihnout	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	_
 20	anděl	anděl	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	19	nsubj	_	_
@@ -94,7 +94,7 @@
 14	prosvital	prosvítat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	_
 15	těch	ten	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	17	det	_	_
 16	skrytých	skrytý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	17	amod	_	_
-17	očí	oko	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	18	obl:arg	_	_
+17	očí	oko	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	18	nmod	_	_
 18	oheň	oheň	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	14	nsubj	_	_
 19	čaroskvělý	čaroskvělý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
 20	a	a	CCONJ	J^-------------	_	26	cc	_	_
@@ -328,7 +328,7 @@
 
 # sent_id = 1191-0001-0003-0000-0002-0000_14
 # text = Hebkou jejich bělí přec zdá se stále, jak by prosvital těch skrytých očí oheň čaroskvělý a plachou jiskrou po nich se kmital.
-1	Hebkou	hebka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
+1	Hebkou	hebka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	_	_
 2	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	bělí	běle	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	11	nmod	_	_
 4	přec	přec	ADV	Db-------------	_	5	advmod:emph	_	_

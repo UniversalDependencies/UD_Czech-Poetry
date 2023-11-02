@@ -85,7 +85,7 @@
 # text = A před lesů tváří tichou a jakoby lhostejnou ještě teď vzpomínám si, že včera ve městě, kde soumrak splýval a ulicemi mrholil prach tesklivého deště, kdes v parku nadobro setmělém kos roztouženě zpíval – –
 1	A	a	CCONJ	J^-------------	_	11	cc	_	_
 2	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	4	case	_	_
-3	lesů	les	NOUN	NNIP7-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	_
+3	lesů	les	NOUN	NNIP7-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	4	nmod	_	_
 4	tváří	tvář	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	11	obl	_	_
 5	tichou	tichý	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
 6	a	a	CCONJ	J^-------------	_	8	cc	_	_

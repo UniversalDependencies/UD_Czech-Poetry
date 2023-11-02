@@ -99,7 +99,7 @@
 15	rytíř	rytíř	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	13	nsubj	_	_
 16	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	18	case	_	_
 17	sexuelní	sexuální	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	18	amod	_	_
-18	křeči	křeč	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	15	obl	_	SpaceAfter=No
+18	křeči	křeč	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	15	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
 # sent_id = 0132-0001-0001-0000-0011-0000_6

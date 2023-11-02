@@ -84,7 +84,7 @@
 25	,	,	PUNCT	Z:-------------	_	30	punct	_	_
 26	přec	přece	ADV	Db-------------	Style=Rare	30	advmod:emph	_	_
 27	nové	nový	ADJ	AAFP1----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	28	amod	_	_
-28	víry	víra	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	30	obl	_	_
+28	víry	víra	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	30	nmod	_	_
 29	Jani	jan	PROPN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Plur|Polarity=Pos	30	nmod	_	_
 30	Křtitelé	křtitel	PROPN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Plur|Polarity=Pos	19	conj	_	_
 31	jsou	být	AUX	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	30	aux	_	_
@@ -176,7 +176,7 @@
 2	ženy	žena	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	1	nsubj	_	_
 3	delikátní	delikátní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
 4	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	5	case	_	_
-5	milenci	milenec	NOUN	NNMP7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	2	obl	_	_
+5	milenci	milenec	NOUN	NNMP7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	2	nmod	_	_
 6	subtilními	subtilní	ADJ	AAMP7----1A----	Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
 8	jsou	být	AUX	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
