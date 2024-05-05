@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Czech-Poetry:
-commit ec9237a84d87c11253776906171e24b92de0f8da
+commit cd8afa7287bd9db6179cde91cffe367ea0d15276
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 23:23:53 2023 +0100
+Date:   Mon Nov 6 11:43:40 2023 +0100
 Size: counted 6288 of 6288 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.67728611025381.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,11 +20,18 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         17
-Udapi: found 17 bugs.
+               TOTAL         16
+Udapi: found 16 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 6288 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cs --max-err=10 UD_Czech-Poetry/cs_poetry-ud-test.conllu
+[Line 224 Sent 0067-0001-0001-0000-0007-0000_9 Node 23]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 222 Sent 0067-0001-0001-0000-0007-0000_9 Node 21]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 640 Sent 0083-0001-0001-0000-0015-0000_12 Node 11]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 639 Sent 0083-0001-0001-0000-0015-0000_12 Node 10]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 641 Sent 0083-0001-0001-0000-0015-0000_12 Node 12]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 639 Sent 0083-0001-0001-0000-0015-0000_12 Node 10]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 6
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
@@ -33,8 +40,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.266170844343784) = 0.0682489344471241
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
-(weight=0.307692307692308) * (score{udapi}=0.972964376590331) = 0.299373654335486
+(weight=0.307692307692308) * (score{udapi}=0.974554707379135) = 0.299862986885888
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.658828817635898) * (availability=1) * (validity=1) = 0.658828817635898
+(TOTAL score=0.659318150186299) * (availability=1) * (validity=1) = 0.659318150186299
 STARS = 3.5
-UD_Czech-Poetry	0.658828817635898	3.5
+UD_Czech-Poetry	0.659318150186299	3.5
