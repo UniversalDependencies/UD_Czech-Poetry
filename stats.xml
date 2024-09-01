@@ -77,19 +77,19 @@
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">181</feat><!-- mi, jsem, já, náš, nás, mnou, moje, bych, chcem, jsme -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">147</feat><!-- jste, ty, tě, ti, jsi, budeš, tobě, tebe, Plyň, dáš -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">460</feat><!-- je, jeho, jest, by, jdou, jich, letí, mu, jejich, jsou -->
-    <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,NOUN,VERB">68</feat><!-- nejsem, neví, nejsou, není, nesmrtelných, nevím, Nebyla, Neprobudiž, Neslýchané, nebdí -->
-    <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,DET,NOUN,PROPN,VERB">3032</feat><!-- je, duše, jsem, jste, jest, žití, den, jdou, letí, měl -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,VERB">65</feat><!-- nejsem, neví, nejsou, není, nesmrtelných, nevím, Nebyla, Neprobudiž, Neslýchané, nebdí -->
+    <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,DET,VERB">1486</feat><!-- je, jsem, jste, jest, jdou, letí, měl, byl, jsi, jsou -->
     <feat name="Poss" value="Yes" upos="ADJ,DET">140</feat><!-- jeho, své, tvé, náš, jejich, svých, moje, svou, jich, svůj -->
     <feat name="PrepCase" value="Npr" upos="PRON">73</feat><!-- jež, jenž, jí, ji, je, jej, jich, jemu, jim, jimž -->
     <feat name="PrepCase" value="Pre" upos="PRON">36</feat><!-- nich, ním, níž, Němu, ni, nimž, něho, něj, němž, něž -->
     <feat name="PronType" value="Dem" upos="ADV,DET">150</feat><!-- to, tak, tam, tu, teď, zde, ty, ta, ten, té -->
-    <feat name="PronType" value="Emp" upos="DET">6</feat><!-- sám, Samo, samém -->
+    <feat name="PronType" value="Emp" upos="DET">7</feat><!-- sám, Samo, samém, samý -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">15</feat><!-- kdys, kdes, tolika, cosi, kdo, kdysi, něco, nějaké, někdy, odkuds -->
     <feat name="PronType" value="Int" upos="ADV,DET,PRON">49</feat><!-- jak, co, proč, kam, kde, Kdo, Komu, Kteří, jakou, jaké -->
     <feat name="PronType" value="Neg" upos="ADV,DET,PRON">12</feat><!-- nikdo, žádné, nikde, Nic, Nikdy, nikam, žádný -->
     <feat name="PronType" value="Prs" upos="DET,PRON">432</feat><!-- se, jeho, mi, si, své, já, ty, tě, ti, tobě -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">101</feat><!-- jež, kde, jenž, co, jak, níž, jimž, která, které, Kdež -->
-    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">54</feat><!-- vždy, každý, vše, všechny, všem, vším, každou, všady, všech, všechna -->
+    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">53</feat><!-- vždy, každý, vše, všechny, všem, vším, každou, všady, všech, všechna -->
     <feat name="Reflex" value="Yes" upos="DET,PRON">185</feat><!-- se, si, své, tvé, sobě, svých, svou, svůj, svoje, svého -->
     <feat name="Style" value="Coll" upos="VERB">15</feat><!-- balancujem, Tejrá, chcem, hnět’, kvet’, odkvet’, stáh’, svrz’, sáh, vsed -->
     <feat name="Style" value="Expr" upos="ADJ">2</feat><!-- přeubohý -->
@@ -98,7 +98,7 @@
     <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">256</feat><!-- měl, byl, bylo, chtěl, poznali, viděl, ctil, šel, Rozhučela, cítil -->
     <feat name="Tense" value="Pres" upos="ADJ,AUX,VERB">501</feat><!-- je, jsem, jste, jest, jdou, letí, jsou, chce, jsi, jde -->
     <feat name="Typo" value="Yes" upos="ADJ">1</feat><!-- lidomlský -->
-    <feat name="Variant" value="Short" upos="ADJ,DET,PRON">215</feat><!-- se, mi, si, tě, ti, ho, mu, mě, věrni, Vyloupena -->
+    <feat name="Variant" value="Short" upos="ADJ,DET,PRON">217</feat><!-- se, mi, si, tě, ti, ho, mu, mě, sám, věrni -->
     <feat name="VerbForm" value="Conv" upos="VERB">8</feat><!-- Poslouchaje, cítě, hyna, koře, podávaje, věře, řkouc, žehnaje -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">542</feat><!-- je, by, jsem, jste, jest, jdou, letí, jsi, jsou, budeš -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">75</feat><!-- být, stát, vidět, říci, Svítit, chtít, dopomoci, dát, dštíti, hnáti -->
@@ -112,8 +112,8 @@
     <dep name="acl">7</dep>
     <dep name="acl:relcl">77</dep>
     <dep name="advcl">120</dep>
-    <dep name="advmod">338</dep>
-    <dep name="advmod:emph">117</dep>
+    <dep name="advmod">328</dep>
+    <dep name="advmod:emph">114</dep>
     <dep name="amod">447</dep>
     <dep name="appos">48</dep>
     <dep name="aux">61</dep>
@@ -122,7 +122,7 @@
     <dep name="cc">212</dep>
     <dep name="ccomp">42</dep>
     <dep name="conj">437</dep>
-    <dep name="cop">41</dep>
+    <dep name="cop">61</dep>
     <dep name="csubj">10</dep>
     <dep name="dep">31</dep>
     <dep name="det">200</dep>
@@ -141,10 +141,10 @@
     <dep name="nsubj:pass">12</dep>
     <dep name="nummod">9</dep>
     <dep name="nummod:gov">6</dep>
-    <dep name="obj">263</dep>
-    <dep name="obl">509</dep>
+    <dep name="obj">257</dep>
+    <dep name="obl">503</dep>
     <dep name="obl:agent">6</dep>
-    <dep name="obl:arg">133</dep>
+    <dep name="obl:arg">138</dep>
     <dep name="orphan">25</dep>
     <dep name="parataxis">88</dep>
     <dep name="punct">1148</dep>
