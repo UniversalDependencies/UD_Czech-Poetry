@@ -23,6 +23,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 
 * 2024-11-15 v2.15
   * Nouns no longer distinguish Polarity. Negative nouns have negative lemmas.
+  * Conditional auxiliary "by" does not have Person (besides 3, it could be also 2).
 * 2023-11-15 v2.13
   * Initial release in Universal Dependencies.
 

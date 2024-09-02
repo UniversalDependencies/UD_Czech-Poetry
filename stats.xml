@@ -18,7 +18,7 @@
     <tag name="ADJ">597</tag><!-- tichý, bílý, jiný, věčný, těžký, mnohý, věrný, černý, bledý, celý -->
     <tag name="ADP">547</tag><!-- v, na, k, z, s, nad, do, pro, o, za -->
     <tag name="ADV">403</tag><!-- jak, kde, tak, tam, ještě, vždy, zas, tady, teď, už -->
-    <tag name="AUX">134</tag><!-- být, bývat -->
+    <tag name="AUX">136</tag><!-- být, bývat -->
     <tag name="CCONJ">272</tag><!-- a, i, však, ani, ale, vždyť, leč, ovšem, tak, alias -->
     <tag name="DET">289</tag><!-- ten, svůj, můj, tvůj, jeho, všechen, který, každý, samý, tento -->
     <tag name="INTJ">21</tag><!-- ó, ave, ejhle, o, ach, hle, hoiho, oh -->
@@ -28,7 +28,7 @@
     <tag name="PRON">381</tag><!-- se, on, já, jenž, ty, co, kdo, všecek, nikdo, cos -->
     <tag name="PROPN">84</tag><!-- Magdaleno, Maria, Armand, Labe, Sion, Svitava, Vltava, Angelico, Azték, Bajušák -->
     <tag name="PUNCT">1148</tag><!-- ,, ., !, –, ;, :, ?, ", ', ) -->
-    <tag name="SCONJ">139</tag><!-- že, jako, když, jak, aby, ať, co, než, až, an -->
+    <tag name="SCONJ">137</tag><!-- že, jako, když, jak, aby, ať, co, než, až, an -->
     <tag name="VERB">743</tag><!-- chtít, jít, dát, mít, vědět, letět, moci, vidět, zdát, stát -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -37,7 +37,7 @@
     <feat name="AdpType" value="Voc" upos="ADP">34</feat><!-- ve, ku, ze, přede, se, ke, nade, pode -->
     <feat name="Animacy" value="Anim" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">357</feat><!-- boha, mu, bože, bůh, člověk, bohy, kdo, papa, ti, poznali -->
     <feat name="Animacy" value="Inan" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">736</feat><!-- co, den, svět, jež, květ, oheň, sen, život, celý, dub -->
-    <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,VERB">645</feat><!-- je, by, jsem, jste, jest, jdou, jsi, letí, měl, byl -->
+    <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,VERB">648</feat><!-- je, by, jsem, jste, jest, jsi, jdou, letí, měl, byl -->
     <feat name="Aspect" value="Perf" upos="ADJ,VERB">293</feat><!-- poznali, stojí, dáš, nech, padne, stát, Rozhučela, dal, dej, dejte -->
     <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN">815</feat><!-- se, v, na, pro, to, tě, co, své, je, ji -->
     <feat name="Case" value="Dat" upos="ADJ,ADP,DET,NOUN,PRON,PROPN">233</feat><!-- k, mi, si, ti, tobě, mu, jí, ku, sobě, těm -->
@@ -66,7 +66,7 @@
     <feat name="NameType" value="Sur" upos="ADJ,PROPN">18</feat><!-- Angelico, Baudelaira, Diderota, Dudákovi, Galba, Gulon, Kolumbové, Křtitelé, Nazaretského, Othona -->
     <feat name="Number" value="Dual" upos="ADJ,NOUN">8</feat><!-- očima, chvějnýma, dlaněma, nervózníma, rtoma, smilnýma -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">896</feat><!-- jež, jste, jdou, oči, jsou, nás, ty, je, svých, bohy -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2521</feat><!-- to, je, duše, mi, jež, jsem, já, ty, tě, jenž -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2520</feat><!-- to, je, duše, mi, jež, jsem, já, ty, tě, jenž -->
     <feat name="Number[psor]" value="Plur" upos="DET">35</feat><!-- náš, jejich, jich, naše, naší, našich, naším, váš, jejichž, našeho -->
     <feat name="Number[psor]" value="Sing" upos="DET">42</feat><!-- jeho, moje, mou, mé, její, moji, má, můj, jehožto, jejích -->
     <feat name="NumForm" value="Digit" upos="NUM">1</feat><!-- 80 -->
@@ -75,8 +75,8 @@
     <feat name="NumType" value="Mult" upos="ADV">3</feat><!-- stokrát -->
     <feat name="NumType" value="Ord" upos="ADJ">6</feat><!-- první, druhého, druhém, druhý, prvnímu -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">181</feat><!-- mi, jsem, já, náš, nás, mnou, moje, bych, chcem, jsme -->
-    <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">147</feat><!-- jste, ty, tě, ti, jsi, budeš, tobě, tebe, Plyň, dáš -->
-    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">460</feat><!-- je, jeho, jest, by, jdou, jich, letí, mu, jejich, jsou -->
+    <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">146</feat><!-- jste, ty, tě, ti, jsi, budeš, tobě, tebe, Plyň, dáš -->
+    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">452</feat><!-- je, jeho, jest, jdou, jich, letí, mu, jejich, jsou, jí -->
     <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,VERB">65</feat><!-- nejsem, neví, nejsou, není, nesmrtelných, nevím, Nebyla, Neprobudiž, Neslýchané, nebdí -->
     <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,DET,VERB">1486</feat><!-- je, jsem, jste, jest, jdou, letí, měl, byl, jsi, jsou -->
     <feat name="Poss" value="Yes" upos="ADJ,DET">140</feat><!-- jeho, své, tvé, náš, jejich, svých, moje, svou, jich, svůj -->
@@ -116,7 +116,7 @@
     <dep name="advmod:emph">114</dep>
     <dep name="amod">447</dep>
     <dep name="appos">48</dep>
-    <dep name="aux">61</dep>
+    <dep name="aux">63</dep>
     <dep name="aux:pass">3</dep>
     <dep name="case">544</dep>
     <dep name="cc">212</dep>
@@ -135,7 +135,7 @@
     <dep name="flat">14</dep>
     <dep name="flat:foreign">3</dep>
     <dep name="iobj">2</dep>
-    <dep name="mark">151</dep>
+    <dep name="mark">149</dep>
     <dep name="nmod">272</dep>
     <dep name="nsubj">389</dep>
     <dep name="nsubj:pass">12</dep>
