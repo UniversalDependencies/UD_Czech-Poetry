@@ -47,7 +47,7 @@
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">796</feat><!-- jež, ty, to, já, jenž, náš, oči, svět, bůh, duše -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN,PROPN">42</feat><!-- bože, Magdaleno, Maria, duše, Světice, Bratře, Hospodine, Matko, Nevěstko, Otče -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,DET">27</feat><!-- níž, dál, víc, více, lepší, výš, šíř, dražší, dříve, míň -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV,DET">589</feat><!-- věčné, bílé, celý, náhle, plný, bílý, jiné, kamenném, marně, nové -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,DET">648</feat><!-- věčné, bílé, celý, náhle, plný, bílý, jiné, kamenném, marně, nové -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">4</feat><!-- nejluznější, nejsmutnější, nejvíc, největší -->
     <feat name="Foreign" value="Yes" upos="NOUN,PRON,PROPN,VERB">6</feat><!-- Ego, Fenrir, Patrona, absolvo, lascivorum, te -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1067</feat><!-- duše, jež, duši, jí, tvé, chvíli, ji, své, té, země -->
