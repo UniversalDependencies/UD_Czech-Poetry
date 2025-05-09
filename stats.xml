@@ -32,7 +32,7 @@
     <tag name="VERB">743</tag><!-- chtít, jít, dát, mít, vědět, letět, moci, vidět, zdát, stát -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="73">
+  <feats unique="76">
     <feat name="AdpType" value="Prep" upos="ADP">511</feat><!-- v, na, z, k, s, nad, do, pro, o, za -->
     <feat name="AdpType" value="Voc" upos="ADP">34</feat><!-- ve, ku, ze, přede, se, ke, nade, pode -->
     <feat name="Animacy" value="Anim" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">357</feat><!-- boha, mu, bože, bůh, člověk, bohy, kdo, papa, ti, poznali -->
@@ -49,6 +49,9 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,DET">27</feat><!-- níž, dál, víc, více, lepší, výš, šíř, dražší, dříve, míň -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV,DET">648</feat><!-- věčné, bílé, celý, náhle, plný, bílý, jiné, kamenném, marně, nové -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">4</feat><!-- nejluznější, nejsmutnější, nejvíc, největší -->
+    <feat name="ExtPos" value="ADP" upos="ADP">1</feat><!-- u -->
+    <feat name="ExtPos" value="ADV" upos="ADV,NOUN">3</feat><!-- Co, den, týden -->
+    <feat name="ExtPos" value="SCONJ" upos="CCONJ">1</feat><!-- i -->
     <feat name="Foreign" value="Yes" upos="NOUN,PRON,PROPN,VERB">6</feat><!-- Ego, Fenrir, Patrona, absolvo, lascivorum, te -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1067</feat><!-- duše, jež, duši, jí, tvé, chvíli, ji, své, té, země -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1266</feat><!-- jenž, den, mu, měl, náš, svět, boha, byl, bože, bůh -->
@@ -87,9 +90,9 @@
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">15</feat><!-- kdys, kdes, tolika, cosi, kdo, kdysi, něco, nějaké, někdy, odkuds -->
     <feat name="PronType" value="Int" upos="ADV,DET,PRON">49</feat><!-- jak, co, proč, kam, kde, Kdo, Komu, Kteří, jakou, jaké -->
     <feat name="PronType" value="Neg" upos="ADV,DET,PRON">12</feat><!-- nikdo, žádné, nikde, Nic, Nikdy, nikam, žádný -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">432</feat><!-- se, jeho, mi, si, své, já, ty, tě, ti, tobě -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">433</feat><!-- se, jeho, mi, si, své, já, tvé, ty, tě, ti -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">101</feat><!-- jež, kde, jenž, co, jak, níž, jimž, která, které, Kdež -->
-    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">53</feat><!-- vždy, každý, vše, všechny, všem, vším, každou, všady, všech, všechna -->
+    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">52</feat><!-- vždy, každý, vše, všechny, všem, vším, každou, všady, všech, všechna -->
     <feat name="Reflex" value="Yes" upos="DET,PRON">185</feat><!-- se, si, své, tvé, sobě, svých, svou, svůj, svoje, svého -->
     <feat name="Style" value="Coll" upos="VERB">15</feat><!-- balancujem, Tejrá, chcem, hnět’, kvet’, odkvet’, stáh’, svrz’, sáh, vsed -->
     <feat name="Style" value="Expr" upos="ADJ">2</feat><!-- přeubohý -->
@@ -112,41 +115,41 @@
     <dep name="acl">7</dep>
     <dep name="acl:relcl">77</dep>
     <dep name="advcl">120</dep>
-    <dep name="advmod">328</dep>
+    <dep name="advmod">330</dep>
     <dep name="advmod:emph">114</dep>
-    <dep name="amod">447</dep>
-    <dep name="appos">48</dep>
+    <dep name="amod">448</dep>
+    <dep name="appos">45</dep>
     <dep name="aux">63</dep>
     <dep name="aux:pass">3</dep>
-    <dep name="case">544</dep>
+    <dep name="case">546</dep>
     <dep name="cc">212</dep>
     <dep name="ccomp">42</dep>
+    <dep name="compound">1</dep>
     <dep name="conj">437</dep>
     <dep name="cop">61</dep>
     <dep name="csubj">10</dep>
     <dep name="dep">31</dep>
-    <dep name="det">200</dep>
+    <dep name="det">201</dep>
     <dep name="det:numgov">3</dep>
     <dep name="det:nummod">3</dep>
     <dep name="discourse">5</dep>
     <dep name="expl:pass">7</dep>
     <dep name="expl:pv">99</dep>
-    <dep name="fixed">12</dep>
-    <dep name="flat">14</dep>
-    <dep name="flat:foreign">3</dep>
+    <dep name="fixed">7</dep>
+    <dep name="flat">16</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">149</dep>
-    <dep name="nmod">272</dep>
-    <dep name="nsubj">389</dep>
+    <dep name="nmod">274</dep>
+    <dep name="nsubj">385</dep>
     <dep name="nsubj:pass">12</dep>
     <dep name="nummod">9</dep>
     <dep name="nummod:gov">6</dep>
     <dep name="obj">257</dep>
-    <dep name="obl">503</dep>
+    <dep name="obl">504</dep>
     <dep name="obl:agent">6</dep>
     <dep name="obl:arg">138</dep>
     <dep name="orphan">25</dep>
-    <dep name="parataxis">88</dep>
+    <dep name="parataxis">91</dep>
     <dep name="punct">1148</dep>
     <dep name="root">297</dep>
     <dep name="vocative">20</dep>
