@@ -6278,7 +6278,7 @@
 10	tak	tak	ADV	Db-------------	PronType=Dem	19	dep	_	_
 11	jako	jako	SCONJ	J,-------------	_	12	mark	_	_
 12	všem	všechen	DET	PLXP3----------	Case=Dat|Number=Plur|PronType=Tot	19	advcl	_	_
-13	budoucí	budoucí	ADJ	AANS1----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	14	amod	_	_
+13	budoucí	budoucí	ADJ	AANS1----1A----	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Act	14	amod	_	_
 14	štěstí	štěstí	NOUN	NNNS1-----A----	Case=Acc|Gender=Neut|Number=Sing	19	obj	_	_
 15	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	16	case	_	_
 16	karet	karta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	19	obl	_	_
