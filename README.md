@@ -37,6 +37,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: poetry
 Lemmas: manual native
 UPOS: manual native
