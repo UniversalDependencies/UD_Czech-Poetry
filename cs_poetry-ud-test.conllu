@@ -219,7 +219,7 @@
 18	všicí	všechen	DET	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|PronType=Tot	15	nsubj	_	SpaceAfter=No
 19	:	:	PUNCT	Z:-------------	_	21	punct	_	_
 20	„	"	PUNCT	Z:-------------	_	21	punct	_	SpaceAfter=No
-21	pade	padnout	VERB	II-------------	Aspect=Perf|Mood=Ind|Number=Sing|Tense=Pres|Voice=Act	15	ccomp	_	_
+21	pade	padnout	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	_
 22	junoše	junoš	NOUN	NNMS5-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
 23	zlobú	zloba	NOUN	VB-P---3P-AA---	Case=Ins|Gender=Fem|Number=Sing	21	obl	_	_
 24	vraha	vrah	NOUN	NNMS4-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
