@@ -17,9 +17,9 @@
   <tags unique="15">
     <tag name="ADJ">597</tag><!-- tichý, bílý, jiný, věčný, těžký, mnohý, věrný, černý, bledý, celý -->
     <tag name="ADP">548</tag><!-- v, na, k, z, s, nad, do, pro, o, za -->
-    <tag name="ADV">403</tag><!-- jak, kde, tak, tam, ještě, vždy, zas, tady, teď, už -->
+    <tag name="ADV">405</tag><!-- jak, tak, kde, tam, ještě, vždy, zas, tady, teď, už -->
     <tag name="AUX">136</tag><!-- být, bývat -->
-    <tag name="CCONJ">272</tag><!-- a, i, však, ani, ale, vždyť, leč, ovšem, tak, alias -->
+    <tag name="CCONJ">270</tag><!-- a, i, však, ani, ale, vždyť, leč, ovšem, alias, neb -->
     <tag name="DET">289</tag><!-- ten, svůj, můj, tvůj, jeho, všechen, který, každý, samý, tento -->
     <tag name="INTJ">21</tag><!-- ó, ave, ejhle, o, ach, hle, hoiho, oh -->
     <tag name="NOUN">1466</tag><!-- duše, bůh, oko, člověk, láska, ruka, den, květ, život, svět -->
@@ -85,7 +85,7 @@
     <feat name="Poss" value="Yes" upos="ADJ,DET">140</feat><!-- jeho, své, tvé, náš, jejich, svých, moje, svou, jich, svůj -->
     <feat name="PrepCase" value="Npr" upos="PRON">73</feat><!-- jež, jenž, jí, ji, je, jej, jich, jemu, jim, jimž -->
     <feat name="PrepCase" value="Pre" upos="PRON">37</feat><!-- nich, ním, níž, Němu, něj, ni, nimž, něho, němž, něž -->
-    <feat name="PronType" value="Dem" upos="ADV,DET">150</feat><!-- to, tak, tam, tu, teď, zde, ty, ta, ten, té -->
+    <feat name="PronType" value="Dem" upos="ADV,DET">152</feat><!-- to, tak, tam, tu, teď, zde, ty, ta, ten, té -->
     <feat name="PronType" value="Emp" upos="DET">7</feat><!-- sám, Samo, samém, samý -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">17</feat><!-- kdys, kdes, tolika, cosi, kdo, kdysi, málo, něco, nějaké, někdy -->
     <feat name="PronType" value="Int" upos="ADV,DET,PRON">49</feat><!-- jak, co, proč, kam, kde, Kdo, Komu, Kteří, jakou, jaké -->
