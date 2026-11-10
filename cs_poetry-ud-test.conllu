@@ -1151,7 +1151,7 @@
 11	božství	božství	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
 12	nad	nad	ADP	RR--7----------	AdpType=Prep|Case=Ins	13	case	_	_
 13	vším	všechen	DET	PLZS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	14	det	_	_
-14	skryté	skrytý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	xcomp	_	SpaceAfter=No
+14	skryté	skrytý	ADJ	AANS4----1A----	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	xcomp	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 # sent_id = 0215-0001-0001-0000-0016-0000_7
@@ -1330,7 +1330,7 @@
 1	Je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
 3	dobru	dobro	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
-4	skryt	skrytý	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	skryt	skrytý	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 5	a	a	CCONJ	J^-------------	_	7	cc	_	_
 6	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	7	case	_	_
 7	pravdě	pravda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
@@ -2154,7 +2154,7 @@
 15	neb	neb	CCONJ	J^-------------	_	18	cc	_	_
 16	donativ	donativ	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj:pass	_	_
 17	jim	on	PRON	PPXP3--3-------	Case=Dat|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	18	obl:arg	_	_
-18	slíben	slíbený	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	11	conj	_	SpaceAfter=No
+18	slíben	slíbený	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	11	conj	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 # sent_id = 0576-0001-0000-0000-0023-0002_2
@@ -2926,7 +2926,7 @@
 # sent_id = 0604-0001-0000-0000-0004-0000_4
 # text = A tak balancujem do světla, do tmy po povaze naší...
 1	A	a	CCONJ	J^-------------	_	3	cc	_	_
-2	tak	tak	CCONJ	J^-------------	_	3	cc	_	_
+2	tak	tak	ADV	J^-------------	PronType=Dem	3	cc	_	_
 3	balancujem	balancovat	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
 5	světla	světlo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
@@ -3881,7 +3881,7 @@
 57	suverén	suverén	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	58	nsubj	_	_
 58	opustil	opustit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	53	acl:relcl	_	SpaceAfter=No
 59	,	,	PUNCT	Z:-------------	_	60	punct	_	_
-60	zahnán	zahnaný	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	58	advcl	_	_
+60	zahnán	zahnaný	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	58	advcl	_	_
 61	radostí	radost	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	60	obl:arg	_	_
 62	lidskou	lidský	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	61	amod	_	SpaceAfter=No
 63	.	.	PUNCT	Z:-------------	_	3	punct	_	_
@@ -3932,7 +3932,7 @@
 33	výskající	výskající	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	34	amod	_	_
 34	hlavu	hlava	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	30	obj	_	_
 35	zkrvavělou	zkrvavělý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	34	amod	_	_
-36	Ukřižovaného	ukřižovaný	ADJ	AAMS2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	34	amod	_	_
+36	Ukřižovaného	ukřižovaný	ADJ	AAMS2----1A----	Animacy=Anim|Aspect=Perf|Case=Gen|Degree=Pos|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	34	amod	_	_
 37	a	a	CCONJ	J^-------------	_	45	cc	_	_
 38	ruce	ruka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	45	obj	_	_
 39	trčící	trčící	ADJ	AGFP4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	38	amod	_	_
@@ -4059,7 +4059,7 @@
 4	vody	voda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
 5	zdvihají	zdvihat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	keřiska	keřisko	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
-7	potopená	potopený	ADJ	AANP1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	_	SpaceAfter=No
+7	potopená	potopený	ADJ	AANP1----1A----	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 # sent_id = 0715-0001-0000-0000-0022-0000_3
@@ -4848,7 +4848,7 @@
 14	otvíraly	otvírat	VERB	VpTP---XR-AA---	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	_
 15	duši	duše	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
 16	vůní	vůně	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	14	obl	_	_
-17	naplněnou	naplněný	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	16	amod	_	_
+17	naplněnou	naplněný	ADJ	AAFS7----1A----	Aspect=Perf|Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	16	amod	_	_
 18	skrytě	skrytě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	17	advmod	_	SpaceAfter=No
 19	;	;	PUNCT	Z:-------------	_	24	punct	_	_
 20	vůní	vůně	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	24	obl	_	_
@@ -4956,7 +4956,7 @@
 
 # sent_id = 0973-0001-0000-0000-0004-0000_9
 # text = Tak kdys předek pohan líce smáčel slzami tu, před Sluncem se koře, an Bůh jeho slunný slavně kráčel nad temena z hořícího moře.
-1	Tak	tak	CCONJ	Db-------------	_	6	advmod	_	_
+1	Tak	tak	ADV	Db-------------	PronType=Dem	6	advmod	_	_
 2	kdys	kdysi	ADV	Db-------------	PronType=Ind	6	advmod	_	_
 3	předek	předek	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 4	pohan	pohan	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat	_	_
@@ -5092,7 +5092,7 @@
 
 # sent_id = 0973-0001-0000-0000-0004-0000_14
 # text = Vyloupena svatyně, v níž bůže měl – jen pozlátkové – místo Boha.
-1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 2	svatyně	svatyně	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	1	nsubj:pass	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	7	punct	_	_
 4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
@@ -5109,7 +5109,7 @@
 
 # sent_id = 0973-0001-0000-0000-0004-0000_15
 # text = Vyloupena?
-1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 2	?	?	PUNCT	Z:-------------	_	1	punct	_	_
 
 # sent_id = 0973-0001-0000-0000-0004-0000_16
@@ -5132,7 +5132,7 @@
 
 # sent_id = 0973-0001-0000-0000-0004-0000_18
 # text = Očištěna svatyně, v níž bůže měl – jen pozlátkové – místo Boha; sám je vynes, jasnou vůlí muže, pouta svrhá jeho hruď i noha.
-1	Očištěna	očištěný	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	17	advcl	_	_
+1	Očištěna	očištěný	ADJ	VsQW---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	17	advcl	_	_
 2	svatyně	svatyně	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	1	nsubj:pass	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	7	punct	_	_
 4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
@@ -6105,7 +6105,7 @@
 13	by	být	AUX	Vc-------------	Aspect=Imp|Mood=Cnd|VerbForm=Fin	14	aux	_	_
 14	prosvital	prosvítat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	_
 15	těch	ten	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	17	det	_	_
-16	skrytých	skrytý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	17	amod	_	_
+16	skrytých	skrytý	ADJ	AAFP2----1A----	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	17	amod	_	_
 17	očí	oko	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
 18	oheň	oheň	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 19	čaroskvělý	čaroskvělý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
@@ -6352,7 +6352,7 @@
 10	by	být	AUX	Vc-------------	Aspect=Imp|Mood=Cnd|VerbForm=Fin	11	aux	_	_
 11	prosvital	prosvítat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Style=Rare|Tense=Past|VerbForm=Part|Voice=Act	5	csubj	_	_
 12	těch	ten	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	14	det	_	_
-13	skrytých	skrytý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	14	amod	_	_
+13	skrytých	skrytý	ADJ	AAFP2----1A----	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	14	amod	_	_
 14	očí	oko	NOUN	NNFP2-----A----	Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
 15	oheň	oheň	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 16	čaroskvělý	čaroskvělý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	15	amod	_	_
@@ -6737,7 +6737,7 @@
 20	vzpínati	vzpínat	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|VerbForm=Inf	19	csubj	_	_
 21	jen	jen	PART	TT-------------	_	22	advmod:emph	_	_
 22	ruce	ruka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	20	obj	_	_
-23	vztažené	vztažený	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	22	amod	_	SpaceAfter=No
+23	vztažené	vztažený	ADJ	AAFP4----1A----	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	22	amod	_	SpaceAfter=No
 24	,	,	PUNCT	Z:-------------	_	33	punct	_	_
 25	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	26	case	_	_
 26	nimž	jenž	PRON	P9XP3----------	Case=Dat|Number=Plur|PrepCase=Pre|PronType=Rel	31	obl	_	_
